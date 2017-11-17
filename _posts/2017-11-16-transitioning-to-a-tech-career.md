@@ -2,7 +2,7 @@
 layout: post
 title: "Transitioning Into A Tech Career"
 description: A career in technology can be very rewarding, but what is the best path?
-image: 'https://givewp.com/wp-content/uploads/2017/10/agency-resources-give-guide-1200x630-760x399.png'
+image: 'https://imgur.com/vUetTcw'
 category: 'advice'
 twitter_text: Transitioning Into A Tech Career.
 introduction: A career in technology can be very rewarding, but what is the best path?
