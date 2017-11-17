@@ -1739,3 +1739,10 @@ footer ul a:hover {
 .main-page footer p {
     color: #fff
 }
+.social-media-parent svg{
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: .625rem;
+}

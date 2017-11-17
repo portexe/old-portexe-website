@@ -5,31 +5,19 @@
     <description>Software engineering, web development, mobile and app development, Android, iOS, and general Computer Science topics.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 16 Nov 2017 16:47:36 -0700</pubDate>
-    <lastBuildDate>Thu, 16 Nov 2017 16:47:36 -0700</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2017 10:44:30 -0700</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2017 10:44:30 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
     
       <item>
         <title>Transitioning Into A Tech Career</title>
-        <description>&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt; &lt;p&gt;Start with basic tech certifications such as the A+, find an area you are interested in, and then pursue it through self-study and certifications.&lt;/p&gt; &lt;h2 id=&quot;my-story&quot;&gt;My Story&lt;/h2&gt; &lt;hr /&gt; &lt;p&gt;I started off my career working at restaraunts. The very first job I had was cleaning at a seafood restaraunt when I was in High School. My second job was a cook at Steak n Shake. I hopped around from restaraunt to restaraunt as I was traveling. I was not sure what I wanted out of life at this point. One thing I was certain of, was that, &lt;strong&gt;I...</description>
+        <description>&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt; &lt;p&gt;Start with basic tech certifications such as the A+, find an area you are interested in, and then pursue it through self-study and certifications.&lt;/p&gt; &lt;h2 id=&quot;my-story&quot;&gt;My Story&lt;/h2&gt; &lt;hr /&gt; &lt;p&gt;I started off my career working at restaurants. The very first job I had was cleaning at a seafood restaurant when I was in High School. My second job was as a cook at Steak n Shake, a popular burger joint. I hopped around from restaurant to restaurant as I was traveling. I was not sure what I wanted out of life at this point. One thing I was...</description>
         <pubDate>Thu, 16 Nov 2017 00:00:00 -0700</pubDate>
-        <link>http://localhost:4000/my-test-post/</link>
-        <guid isPermaLink="true">http://localhost:4000/my-test-post/</guid>
+        <link>http://localhost:4000/transitioning-to-a-tech-career/</link>
+        <guid isPermaLink="true">http://localhost:4000/transitioning-to-a-tech-career/</guid>
         
         
         <category>advice</category>
-        
-      </item>
-    
-      <item>
-        <title>Seja bem-vindo</title>
-        <description>&lt;p&gt;Cas sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt; &lt;blockquote&gt; &lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt; &lt;/blockquote&gt; &lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt; &lt;h2 id=&quot;inline-html-elements&quot;&gt;Inline HTML elements&lt;/h2&gt; &lt;p&gt;HTML defines a long list of available inline tags, a complete list of...</description>
-        <pubDate>Wed, 10 Oct 2012 00:00:00 -0600</pubDate>
-        <link>http://localhost:4000/seja-bem-vindo/</link>
-        <guid isPermaLink="true">http://localhost:4000/seja-bem-vindo/</guid>
-        
-        
-        <category>blog</category>
         
       </item>
     

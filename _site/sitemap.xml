@@ -39,11 +39,7 @@
     
     
         <url>
-            <loc>http://localhost:4000/my-test-post/</loc>
-        </url>
-  
-        <url>
-            <loc>http://localhost:4000/seja-bem-vindo/</loc>
+            <loc>http://localhost:4000/transitioning-to-a-tech-career/</loc>
         </url>
   
 </urlset>

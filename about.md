@@ -10,3 +10,8 @@ permalink: /about/
 ## About
 
 I am a sotware engineer and front end web developer living in the Colorado Springs area. I currently work at Amergint Technologies building graphical user interfaces for complex systems. I am passionate about music, Parkour, and the outdoors.
+
+### Follow me on social media!
+<div class="social-media-parent">
+{% include social-media.html %}
+</div>
