@@ -22,7 +22,7 @@
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
 
                 {% if page.image %}
-                    <img src="{{ page.image }}" alt="Imagem de capa" class="post-cover">
+                    <img src="{{ page.image }}" alt="{{ page.caption }}" class="post-cover">
                 {% endif %}
 
                 {{ content }}

@@ -6,6 +6,7 @@ image: 'http://imgur.com/vUetTcw'
 category: 'advice'
 twitter_text: Transitioning Into A Tech Career.
 introduction: A career in technology can be very rewarding, but what is the best path?
+caption: tech career
 ---
 
 ## TL;DR
