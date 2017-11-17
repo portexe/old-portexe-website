@@ -1,0 +1,87 @@
+<!-- <div id="grid" class="row flex-grid">
+    {% for post in site.posts %}
+        <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+            <span class="category">
+                <a href="{{ site.url }}{{ site.baseurl }}/categoria/{{ post.category }}">
+                    <span>{{ post.category }}</span>
+                </a>
+            </span>
+            <div class="box-body">
+                {% if post.image %}
+                    <div class="cover">
+                        {% include new-post-tag.html date=post.date %}
+                    <a href="{{ post.url | prepend: site.baseurl }}" {%if isnewpost %}class="new-post"{% endif %}>
+                    <img src="" data-url="{{ post.image }}" class="preload">
+                </a>
+            </div>
+        {% endif %}
+        <div class="box-info">
+            <meta itemprop="datePublished" content="{{ post.date | date_to_xmlschema }}">
+            <time itemprop="datePublished" datetime="{{ post.date | date_to_xmlschema }}" class="date">
+            {% include date.html date=post.date %}
+            </time>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <h2 class="post-title" itemprop="name">
+                {{ post.title }}
+                </h2>
+            </a>
+            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
+                <p class="description">{{ post.introduction }}</p>
+            </a>
+            <div class="tags">
+                {% for tag in post.tags %}
+                    <a href="{{ site.baseurl}}/tags/#{{tag | slugify }}">{{ tag }}</a>
+                {% endfor %}
+            </div>
+        </div>
+    </div>
+</article>
+{% endfor %}
+</div> -->
+
+<div id="portfolio" style="padding-top: 8px; ">
+<h4 style="color: #d6d2c0; margin-left: 20px; margin-bottom: 20px; font-size: 28px;">Check out some of my projects:</h4>
+<div id="grid" class="row flex-grid">
+    <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">Casual Death Music</span>
+                <a href="http://www.csldth.com/" target="_blank">
+                    <img src="/assets/img/portfolio/csldth_preview.png" style="width: 100% box-shadow: 2px 2px 2px black;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+     <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">Columbus, GA Disc Golf Association</span>
+                <a href="http://www.columbusgadiscgolf.com/" target="_blank">
+                    <img src="/assets/img/portfolio/discgolf_preview.png" style="width: 100% box-shadow: 2px 2px 2px black;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+     <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">Tablr - An Angular 2 Component</span>
+                <a href="https://github.com/Zackazt/Tablr" target="_blank">
+                    <img src="/assets/img/portfolio/tablr_preview.png" style="width: 100% box-shadow: 2px 2px 2px black;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+     <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">A+ Study App</span>
+                <a href="https://play.google.com/store/apps/details?id=com.freeparking.zack.a_plus_practice&hl=en" target="_blank">
+                    
+                    <img src="/assets/img/portfolio/aplus_preview.png" style="width: 100% box-shadow: 2px 2px 2px black;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+</div>
+</div>
