@@ -66,13 +66,11 @@
     <script type="text/javascript">
         function lockBoxItemWidth() {
             let boxItems = document.getElementsByClassName('box-body');
-            for(let item of boxItems) {
-                if(item.offsetWidth > 700) {
-                    var tempNum = item.offsetWidth;
-                    item.style.width = '700px';
-                    item.style.marginLeft = (tempNum - 700) * 0.5 + 'px';
+            for(let item of boxItems) { 
+                console.log(item.offsetWidth);
+                if(item.offsetWidth === 700) {
+                    item.style.marginLeft = 'calc(50% - 350px)';
                 } else {
-                    item.style.width = '100%';
                     item.style.marginLeft = '0px';
                 }
             }
