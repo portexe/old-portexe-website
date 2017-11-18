@@ -4,7 +4,7 @@ email: zackazt@gmail.com
 description: Software engineering, web development, mobile and app development, Android, iOS, and general Computer Science topics.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.zwilsondev.com" # the base hostname & protocol for your site
-google_analytics: "UA-XXXXXXXX-X"
+google_analytics: "UA-109849250-1"
 author_image: "/zwilson.jpg"
 
 # User Settings
