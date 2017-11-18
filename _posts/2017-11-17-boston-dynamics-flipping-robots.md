@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Boston Dynamics New Video Present Looming Possibilities"
+title: "Boston Dynamics New Video Presents Looming Possibilities"
 description: Tech company Boston Dynamics manages to catch the world's attention by programming robots to do Parkour, but what does this mean for the future?
 image: 'https://i.imgur.com/OQYGD3j.png'
 category: 'news'
