@@ -39,6 +39,10 @@
     
     
         <url>
+            <loc>http://localhost:4000/boston-dynamics-flipping-robots/</loc>
+        </url>
+  
+        <url>
             <loc>http://localhost:4000/transitioning-to-a-tech-career/</loc>
         </url>
   

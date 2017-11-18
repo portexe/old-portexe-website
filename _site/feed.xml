@@ -5,9 +5,21 @@
     <description>Software engineering, web development, mobile and app development, Android, iOS, and general Computer Science topics.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 17 Nov 2017 10:44:30 -0700</pubDate>
-    <lastBuildDate>Fri, 17 Nov 2017 10:44:30 -0700</lastBuildDate>
+    <pubDate>Fri, 17 Nov 2017 17:13:14 -0700</pubDate>
+    <lastBuildDate>Fri, 17 Nov 2017 17:13:14 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Boston Dynamics New Video Present Looming Possibilities</title>
+        <description>&lt;h5 id=&quot;image-of-robot-atlas-was-taken-from-kansascitycom&quot;&gt;Image of Robot Atlas was taken from &lt;a href=&quot;http://www.kansascity.com/news/business/technology/917xpi/picture62197987/ALTERNATES/FREE_640/atlas%20from%20boston%20dynamics&quot;&gt;KansasCity.com&lt;/a&gt;.&lt;/h5&gt; &lt;p&gt;Yesterday, November 16, 2017, &lt;a href=&quot;https://www.bostondynamics.com/&quot;&gt;Boston Dynamics&lt;/a&gt; released a video of their robot Atlas jumping onto platforms before finally performing a perfect backflip.&lt;/p&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/fRj34o4hN4I&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;Boston Dynamics is a tech/engineering company headquartered in &lt;a href=&quot;https://en.wikipedia.org/wiki/Waltham,_Massachusetts&quot;&gt;Waltham, Massachusetts&lt;/a&gt; with a focus on robotics with animal-like and human-like designs. Boston Dynamics’ robots have impressed many. They even caught Google’s eyes leading to Google X acquiring them in 2013 before eventually being sold to Japan’s &lt;a href=&quot;https://en.wikipedia.org/wiki/SoftBank_Group&quot;&gt;SoftBank Group&lt;/a&gt;. They’ve also been known for some &lt;a href=&quot;https://www.youtube.com/watch?v=v2-u0TZjuAk&quot;&gt;hilarious malfunctions&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;This is...</description>
+        <pubDate>Fri, 17 Nov 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/boston-dynamics-flipping-robots/</link>
+        <guid isPermaLink="true">http://localhost:4000/boston-dynamics-flipping-robots/</guid>
+        
+        
+        <category>news</category>
+        
+      </item>
     
       <item>
         <title>Transitioning Into A Tech Career</title>

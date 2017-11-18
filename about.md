@@ -13,5 +13,5 @@ I am a sotware engineer and front end web developer living in the Colorado Sprin
 
 ### Follow me on social media!
 <div class="social-media-parent">
-{% include social-media.html %}
+	{% include social-media.html %}
 </div>
