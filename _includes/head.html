@@ -64,4 +64,22 @@
     <link rel="stylesheet" href="{{ "/assets/css/main.css" | prepend: site.baseurl }}">
     <link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <link rel="alternate" type="application/rss+xml" title="{{ site.title }}" href="{{ "/feed.xml" | prepend: site.baseurl | prepend: site.url }}" />
+
+    <script type="text/javascript">
+        function lockBoxItemWidth() {
+            let boxItems = document.getElementsByClassName('box-body');
+            for(let item of boxItems) {
+                if(item.offsetWidth > 700) {
+                    var tempNum = item.offsetWidth;
+                    item.style.width = '700px';
+                    item.style.marginLeft = (tempNum - 700) * 0.5 + 'px';
+                } else {
+                    item.style.width = '100%';
+                    item.style.marginLeft = '0px';
+                }
+            }
+        }
+        window.onload = lockBoxItemWidth;
+        window.onresize = lockBoxItemWidth;
+    </script>
 </head>
