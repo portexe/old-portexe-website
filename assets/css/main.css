@@ -5,7 +5,9 @@ html {
     -webkit-text-size-adjust: 100%
 }
 body {
-    margin: 0
+    margin: 0;
+    background-image: url('https://i.imgur.com/7lG7Yrd.png');
+    background-attachment: fixed;
 }
 article,
 aside,
@@ -1737,7 +1739,7 @@ footer ul a:hover {
     text-decoration: underline
 }
 .main-page footer {
-    background: rgba(63, 65, 81, 0.3);
+    background: rgba(63, 65, 81, 0.8);
     border-top: 1px solid #2c2c2c;
     box-shadow: 1px 1px 5px black;
 }
