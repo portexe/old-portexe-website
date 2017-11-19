@@ -379,7 +379,6 @@ aside h2 {
 aside nav ul {
     padding: 0;
     margin: .313rem 0;
-    margin-top: 50px;
 }
 @media only screen and (min-width: 37.5rem) {
     aside nav ul {
