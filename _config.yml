@@ -6,6 +6,8 @@ baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.zwilsondev.com" # the base hostname & protocol for your site
 google_analytics: "UA-109849250-1"
 author_image: "/zwilson.jpg"
+image: "https://i.imgur.com/iTdx3bV.png"
+image_sm: "https://i.imgur.com/TLvihxr.png"
 
 # User Settings
 username: ZackAZT
