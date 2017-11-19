@@ -859,7 +859,7 @@ main {
 }
 @media only screen and (max-width: 37.5rem) {
     #header-headline{
-        font-size: 10px;
+        display: none;
     }
     .bar-header .logo a{
         font-size: 1.5rem;
