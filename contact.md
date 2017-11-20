@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Contact
-description: Let's talk.
+description: Take your business to the next level with modern technology and better online visibility. For any inquiries please feel free to contact me.
 permalink: /contact/
 ---
 

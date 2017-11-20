@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-description: Some description.
+description: Serving Colorado with web and mobile applications, static websites, front-end user interfaces for existing systems, search engine optimization, and more.
 permalink: /about/
 ---
 
@@ -9,7 +9,7 @@ permalink: /about/
 
 ## About
 
-I am a software engineer and front end web developer living in the Colorado Springs area. I currently work at Amergint Technologies building graphical user interfaces for complex systems. I am passionate about music, Parkour, and the outdoors.
+Serving Colorado with web and mobile applications, static websites, front-end user interfaces for existing systems, search engine optimization, and more. Take your business to the next level with modern technology and better online visibility. For any inquiries please feel free to contact me. 
 
 ### Follow me on social media!
 <div class="social-media-parent">
