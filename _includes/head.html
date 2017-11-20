@@ -14,14 +14,14 @@
     {% if page.image %}
     <meta property="twitter:image:src" content="{{ page.image }}">
     {% else %}
-    <meta property="twitter:image:src" content="{{ 'https://i.imgur.com/iTdx3bV.png' | prepend: site.baseurl | prepend: site.url }}">
+    <meta property="twitter:image:src" content="{{ 'https://i.imgur.com/5LLBvP7.png' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
 
     <!-- Social: Facebook / Open Graph -->
     <meta property="og:url" content="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
     <meta property="og:title" content="{% if page.title %}{{ page.title }} | {{ site.username }}{% else %}{{ site.title }}{% endif %}">
     {% if page.image %}
-    <meta property="og:image" content="{{ page.image_fb }}">
+    <meta property="og:image" content="{{ page.image }}">
     {% else %}
     <meta property="og:image" content="{{ 'https://i.imgur.com/5LLBvP7.png' | prepend: site.baseurl | prepend: site.url }}">
     {% endif %}
@@ -31,7 +31,7 @@
     <!-- Social: Google+ / Schema.org  -->
     <meta itemprop="name" content="{% if page.title %}{{ page.title }} | {{ site.username }}{% else %}{{ site.title }}{% endif %}"/>
     <meta itemprop="description" content="{% if page.description %}{{ page.description | strip_html | strip_newlines | truncate: 160 }}{% else %}{{ site.description }}{% endif %}">
-    <meta itemprop="image" content="{{ 'https://i.imgur.com/iTdx3bV.png' | prepend: site.baseurl | prepend: site.url }}"/>
+    <meta itemprop="image" content="{{ 'https://i.imgur.com/5LLBvP7.png' | prepend: site.baseurl | prepend: site.url }}"/>
 
     <!-- Favicon -->
     <link rel="shortcut icon" href="{{site.baseurl}}/favicon.ico" type="image/x-icon" />
