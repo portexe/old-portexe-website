@@ -555,6 +555,7 @@ html,
 body {
     height: 100%
 }
+
 .bar-header {
     background-color: #25272D;
     box-shadow: 2px 2px 5px black;
@@ -564,6 +565,13 @@ body {
     z-index: 10;
     -webkit-transition: top .5s;
     transition: top .5s;
+    left: 0;
+    margin-left: 0;
+    transition: 0.3s;
+}
+.push-menu-to-right .bar-header{
+    left: 15rem;
+    transition: 0.3s;
 }
 @media only screen and (min-width: 37.5rem) {
     .bar-header {
