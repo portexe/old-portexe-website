@@ -9,23 +9,23 @@ introduction: What is Net Neutrality? Here we go through the history of Net Neut
 caption: Net Neutrality
 ---
 
-Net Neutrality is a term that most people today have heard, but how much about net neutrality do you know? Should you care? Afterall, it's not that big of a deal, right? It's just the internet. As long as you can check your social media accounts and watch your online movies, do you think you'd be satisfied regardless? 
+Net Neutrality is a term that most people today have heard, but how much do you know about it? Should you care? Afterall, it's not that big of a deal, right? It's just the internet. As long as you can check your social media accounts and watch your online movies, do you think you'd be satisfied regardless? 
 
 ### Net neutrality is not necessarily about the present.
 
-The thing to keep in mind here is that companies want to discriminate against certain forms of internet traffic in order to suit their business desires. The goal of net neutrality is to prevent companies from discriminating against different forms of internet traffic in order to maintain a completely neutral platform. Broadband discrimination leads to application discrimination by nature, and leads to reduced innovation. In a neutral net, developers are free to create new and innovative technologies. In a non-neutral net, the interests of developers are directed and distorted by consumers being forced to use particular products.
+The thing to keep in mind here is that companies want to discriminate against certain forms of internet traffic in order to suit their business desires. The goal of net neutrality is to prevent companies from discriminating against different forms of internet traffic in order to maintain a completely neutral platform. Broadband discrimination leads to application discrimination by nature, which leads to reduced innovation. In a neutral net, developers are free to create new and innovative technologies. In a non-neutral net, the interests of developers are directed and distorted by consumers being forced to use particular products and services.
 
 ### So how does this affect you?
 
-At this exact moment it may not effect you at all. The concern is with how influential the internet has become, and how a non-neutral net could shape the future. The internet is used in places that you may or may not even think about. It's in your cars, your phones, and in modern homes it's even in your thermostats. The internet is used almost everywhere to accommodate our needs, and if cable companies are aallowed to, they will charge you more money to continue using these devices. The same devices that you've always used before simply because you are able to connect it to WiFi. 
+At this exact moment it may not effect you at all. The concern is with how influential the internet has become, and how a non-neutral net could shape the future. The internet is used in places that you may or may not even think about. It's in your cars, your phones, and in modern homes it's even in your thermostats. The internet is used almost everywhere to accommodate our needs, and if cable companies are allowed to, they will charge you more money to continue using these devices the way you do today. These are the same devices that you've always used before simply because you are able to connect it to WiFi. 
 
-ISP's have been known to attempt to charge more money for the exact same internet service for people who are using particlau applications. For example, Comcast wanted customers to pay more money to use VPN's (Virtual Private Networks). This sort of action would affect many people who work from home and connect to their company's intranet. A lot of people use VPN's for personal reasons as well, and they could either have to cease use or pay more money.
+ISP's have been known to attempt charging more money to remove un-necessary restrictions from their services. For example, Comcast wanted customers to pay more money to use VPN's (Virtual Private Networks). This sort of action would affect many people who work from home and connect to their company's intranet. A lot of people use VPN's for personal reasons as well, and they could either have to cease use or pay more money.
 
-The internet is a very important tool today, and it has a lot to do with the fact that when you purchase internet access, you get the entire internet all at once. In a non-neutral internet you will likely pay for particular websites or services rather than the internet itself. This is very much like when you purchase cable, you only get certain channels instead of all channels. The reasons behind net neutrality's importance goes beyond simple desires. It is a somewhat technical subject, and my goal is to provide enough information in one article to form your own educated opinion on the subject.
+The internet is a very important tool today, and it has a lot to do with the fact that when you purchase internet access, you get the entire internet all at once. In a non-neutral internet you will likely pay for particular websites or services rather than the internet itself. This is very much like when you purchase cable, you only get certain channels instead of all channels. The reasons behind the importance of Net Neutrality goes beyond our simple desires. It is a somewhat technical subject, and my goal is to provide enough information in one article to help you form your own educated opinion on the subject.
 
 ### A Brief History Of Net Neutrality
 
-Below this timeline I highlight what I consider to be some of the more important points in net neutrality's history and go into some greater detail if you do not feel like checking each individual source.
+Below this timeline I highlight what I consider to be some of the most important points in net neutrality's history and go into some greater detail if you do not feel like checking each individual source.
 
 ---
 
@@ -54,7 +54,7 @@ Tim Wu explains that "Open Access" can inhibit vertical relationships between IS
 
 **September 23, 2005** - The FCC decides to officially deregulate DSL, classifying it as an information service. 
 
-**September 2017 - August 2008** - Comcast accused of "the most drastic example yet of data discrimination by a U.S. Internet service provider", by tampering with Bittorrent traffic. (Peter Svensson, [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/10/19/AR2007101900842.html)). The most likely reason of Comcast doing this was to free up network resources for their other customers. This was a clear case of internet traffic discrimination. Comcast denied claims of "bittorrent blocking" and referred to it as "delaying", however the FCC later stepped in and orders Comcast to stop discriminating against Bittorrent traffic.
+**September 2007 - August 2008** - Comcast accused of "the most drastic example yet of data discrimination by a U.S. Internet service provider", by tampering with Bittorrent traffic. (Peter Svensson, [Washington Post](http://www.washingtonpost.com/wp-dyn/content/article/2007/10/19/AR2007101900842.html)). The most likely reason of Comcast doing this was to free up network resources for their other customers. This was a clear case of internet traffic discrimination. Comcast denied claims of "bittorrent blocking" and referred to it as "delaying", however the FCC later stepped in and orders Comcast to stop discriminating against Bittorrent traffic.
 
 **October 22, 2009** - [FCC begins net neutrality proceeding](http://www.internetnews.com/infra/article.php/3845096/FCC+Begins+March+Toward+Net+Neutrality.htm). The FCC voted to instantiate a process for creating rules and regulations to keep ISPs from discriminating against internet traffic.
 
@@ -78,9 +78,9 @@ Tim Wu explains that "Open Access" can inhibit vertical relationships between IS
 
 **September 14, 2014** - [Internet Slowdown Day](https://www.battleforthenet.com/sept10th/). The goal was to raise awareness of net neutrality by filling the internet with loading icons for a single day.
 
-**January 16, 2015** - [Republicans Introduce Net Neutralty Bill](https://www.publicknowledge.org/press-release/public-knowledge-expresses-strong-concerns-about-sen-thunes-net-neutrality). People expressed concerns that, "Allows discrimination in violation of the principles of the Open Internet".
+**January 16, 2015** - [Republicans Introduce Net Neutralty Bill](https://www.publicknowledge.org/press-release/public-knowledge-expresses-strong-concerns-about-sen-thunes-net-neutrality). People expressed concerns that it, "Allows discrimination in violation of the principles of the Open Internet".
 
-**February 25, 2015** - [FCC Passes Title II Net Neutrality Rules](https://www.publicknowledge.org/news-blog/blogs/a-landmark-day-for-net-neutrality). This was considered a hiuge landmark for net neutrality supporters.
+**February 25, 2015** - [FCC Passes Title II Net Neutrality Rules](https://www.publicknowledge.org/news-blog/blogs/a-landmark-day-for-net-neutrality). This was considered a huge landmark for net neutrality supporters.
 
 **June 14, 2016** - [D.C. Circuit Affirms Open Internet Order](https://www.publicknowledge.org/documents/dc-circuit-open-internet-opinion-2016). This rule affirms that companies are not allowed to block or throttle consumers' wired or wireless internet services.
 
@@ -99,33 +99,31 @@ Recently an image went viral of a Portugese cell phone data plan which appears t
 <img src="https://i.imgur.com/FOmjEjm.jpg">
 ###### Screenshot of Meo Internet Packages. A Portugese Mobile Communications Provider.
 
-[This news article](http://www.9news.com/news/local/verify/verify-what-does-portugal-have-to-do-with-us-dumping-net-neutrality-/494021679) attempts to debunk this image. If you watch the video, the reporter explains that the cheapest plan is a 1GB data plan. If you want more data you can purchase the 10GB plan which offers more data for **certain types** of applicaitions. You can also purchase a 30GB plan, hwere you can use your data for any website or app. This video to me does not debunk the image in any way. It appears to me as though he literally explains that this set of packages is a clear example of what America is currently fearing. 
+[This news article](http://www.9news.com/news/local/verify/verify-what-does-portugal-have-to-do-with-us-dumping-net-neutrality-/494021679) attempts to debunk this image. If you watch the video, the reporter explains that the cheapest plan is a 1GB data plan. If you want more data you can purchase the 10GB plan which offers more data for **certain types** of applicaitions. You can also purchase a 30GB plan, where you can use your data for any website or app. This video does not debunk the image in any way. It appears to me as though he literally explains that this set of packages is a clear example of what America is currently fearing. 
 
-The idea is that ISP's and cable companies will begin discriminating against certain apps and different forms of internet traffic. This is not a fear based on paranoia, this is a fear based on historical evidence. Below I will; provide several examples of companies attempting to do this in the past, but being forced to stop due to Net neutrality rules:
+The idea is that ISP's and cable companies will begin discriminating against certain apps and different forms of internet traffic. This is not a fear based on paranoia. This is a fear based on historical evidence. Below I will provide several examples of companies attempting to do this in the past before being forced to stop due to Net neutrality rules:
 
-1. In 2001 a Comcast customer began complaining about Comcast banning the usage of his VPN. Comcast's response to his complaints were the following:
+* In 2001 a Comcast customer began complaining about Comcast banning the usage of his VPN. Comcast's response to his complaints were the following:
 
 > Thank you for your message.
 
 > High traffic telecommuting while utilizing a VPN can adversely affect the condition of the network while disrupting the connection of our regular residential subscribers. To accommodate the needs of our customers who do choose to operate VPN, Comcast offers the Comcast @Home Professional product. @Home Pro is designed to meet the needs of the ever growing population of small office/home office customers and telecommuters that need to take advantage of protocols such as VPN. This product will cost $95 per month, and afford you with standards which differ from the standard residential product.
 
-This may seem acceptable at first glance, but the reality of the situation is that Comcast was attempting to charge customers more money for the exact same services. The only differnce between the service was less restrictions. In other words **Comcast attempted to make more money by restricting access to their customers and asking them to pay more money to remove these restrictions.**
+This may seem acceptable at first glance, but the reality of the situation is that Comcast was attempting to charge customers more money for the exact same services. The only differences between the services were less restrictions. In other words **Comcast attempted to make more money by restricting access to their customers and asking them to pay more money to remove these restrictions.**
 
-2. Madison River Communications, a North Carolina based ISP, restricted access to VoIP services in order to force their users to use Madison River Communication's VoIP services. This is a clear example of an attempt at monopolization. They attempted to make more money by restricting their customer's and forcing them to use their VoIP services.
+* Madison River Communications, a North Carolina based ISP, restricted access to VoIP services in order to force their users to use Madison River Communication's VoIP services. This is a clear example of an attempt at monopolization. They attempted to make more money by restricting their customers, forcing them to use their VoIP services.
 
-3. In late 2007, Comcast begins tampering with their customer's Bittorrent traffic, by slowing it down and throttling it. The reason for them doing this was that they claim that P2P file sharing is a form of server use, which is untrue.
+* In late 2007, Comcast began tampering with their customers' Bittorrent traffic, by slowing it down and throttling it. The reason for them doing this was their claim that P2P file sharing is a form of server use, which is untrue.
 
-4. In 2012, AT&T was caught blocking FaceTime calls unless customers upgraded to their "Mobile Share" package. This again seems like a fair thing for a business to do, however, they are attempting to profit by offering the same services with less restrictions, for more money.
+* In 2012, AT&T was caught blocking FaceTime calls unless customers upgraded to their "Mobile Share" package. This again seems like a fair thing for a business to do, however, they are attempting to profit by offering the same services with less restrictions, for more money.
 
-These are only a few of many examples of how in the past, companies attempted to charge customers more money. 
+These are only a few of many examples of how in the past, companies attempted to charge customers more money. Net Neutrality rules and regulations are why they were not able to get away with this in the past.
 
-Net Neutrality rules and regulations are why they were not able to get away with this in the past.
+Another argument of why Net neutrality regulations are desireable, has to do with competition between web and app developers. Currently the state of competition for web and app development is very much similar to Darwin's Theory of Evolution. **Survival of the fittest**. 
 
-Another argument on the side of why Net neutrality regulations are desireable have to do with competition between web and app developers. Currently the state of competition for web and app development is very much similar to Darwin's theory of Evolution. **Survival of the fittest**. 
+The Internet, as a neutral platform, allows developers to have the freedom to be innovatve with very little sway. Startups form in the blink of an eye, and they have equal opportunity to reach users giving them equal chances of success. This has given rise to the revolution of today's Silicon Valley. The fear is that if ISP's and cable companies begin charging customers more money for different internet packages, startups will be less likely to succeed due to having to cut deals with ISP's and perhaps reaching far less potential users than on a fully neutral net. 
 
-The Internet, as a neutral platform, allows developers to have the freedom to be innovatve with very little sway. Startups form in the blink of an eye, and they have equal opportunity to reach users giving them equal chances of success. This has given rise to the revolution of today's Silicon Valley. The fear is that with ISP's and cable companies charging customer's more money for different internet packages, startups will be less likely to succeed due to having to cut deals with ISP's and perhaps reaching far less potential users than on a fully neutral net. 
-
-When you connect to the internet, you most likely expect ot be able to go to whatever website you feel like. This may not be the case if you are restricted to what websites and apps you are able to access through your ISP's plan. 
+When you connect to the internet, you most likely expect to be able to go to whatever website you feel like. This may not be the case if you are restricted to what websites and apps you are able to access through your ISP's plan. 
 
 ### What sort of solutions are there to these issues?
 
