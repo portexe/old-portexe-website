@@ -129,12 +129,25 @@ When you connect to the internet, you most likely expect to be able to go to wha
 
 Well we have a solution, and it is called the [Open Internet Order](https://apps.fcc.gov/edocs_public/attachmatch/FCC-15-24A1.pdf). This is a set of regulations that secure Net Neutrality. The FCC's newest goal is to undo this order.
 
-### Why?
+### Why do they want to do this?
+
+Ajit Pai believes that it is in the best interest of America to take the government and regulations out of the internet and give the power to engineers.
+
+I will not go into very much detail about why this is more than likely very untrue, as Tm Wu did a fantastic job of explaining this in [his paper](http://whatisnetneutrality.org/timeline).
 
 
+### In conclusion
 
+I would simply like to provide a **TL;DR** based on what has been presented in this article. It is better you read it in it's entirety to form your own opinion.
 
+Net Neutrality is a desired outcome for maximum innovation, and for consumer happiness in the long run. It secures the internet as a neutral platform for developers to create new and innovative software, hardware, and form new startups without market distortion. ISP's and cable providers have been known to try to bypass net neutrality rules for profit many times in the past, proving that these companies will discriminate against forms of applications, and internet traffic without these rules in place. Customers will likely be charged more money, be restricted in certain ways, and/or be forced to used particular products and services without the Open Internet Order and other regulations. 
 
+Below are some resources for taking action if you feel inclined to do so:
 
+* [Save The Internet - Petition](https://www.savetheinternet.com/sti-home)
 
+* Save The Internet - Take Action[](https://www.savetheinternet.com/action)
 
+* [Battle for the Net - Contact Your Representatives](https://www.battleforthenet.com/)
+
+* [Save The Open Internet](https://netneutrality.internetassociation.org/action/)
