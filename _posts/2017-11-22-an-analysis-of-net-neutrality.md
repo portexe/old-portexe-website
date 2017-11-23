@@ -146,7 +146,7 @@ Below are some resources for taking action if you feel inclined to do so:
 
 * [Save The Internet - Petition](https://www.savetheinternet.com/sti-home)
 
-* [Save The Internet - Take Action(https://www.savetheinternet.com/action)
+* [Save The Internet - Take Action](https://www.savetheinternet.com/action)
 
 * [Battle for the Net - Contact Your Representatives](https://www.battleforthenet.com/)
 
