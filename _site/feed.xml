@@ -5,9 +5,21 @@
     <description>Web and App development in the Colorado Springs area. Building front-end user interfaces for complex systems, static websites, web and mobile applications, etc.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Tue, 21 Nov 2017 09:57:31 -0700</pubDate>
-    <lastBuildDate>Tue, 21 Nov 2017 09:57:31 -0700</lastBuildDate>
+    <pubDate>Wed, 22 Nov 2017 18:31:16 -0700</pubDate>
+    <lastBuildDate>Wed, 22 Nov 2017 18:31:16 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>An Analysis of Net Neutrality in America</title>
+        <description>&lt;p&gt;Net Neutrality is a term that most people today have heard, but how much about net neutrality do you know? Should you care? Afterall, it’s not that big of a deal, right? It’s just the internet. As long as you can check your social media accounts and watch your online movies, do you think you’d be satisfied regardless?&lt;/p&gt; &lt;h3 id=&quot;net-neutrality-is-not-necessarily-about-the-present&quot;&gt;Net neutrality is not necessarily about the present.&lt;/h3&gt; &lt;p&gt;The thing to keep in mind here is that companies want to discriminate against certain forms of internet traffic in order to suit their business desires. The goal of net neutrality is to...</description>
+        <pubDate>Wed, 22 Nov 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/an-analysis-of-net-neutrality/</link>
+        <guid isPermaLink="true">http://localhost:4000/an-analysis-of-net-neutrality/</guid>
+        
+        
+        <category>tech politics</category>
+        
+      </item>
     
       <item>
         <title>Boston Dynamics New Video Presents Looming Possibilities</title>
