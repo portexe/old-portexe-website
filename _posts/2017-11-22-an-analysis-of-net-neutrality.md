@@ -9,6 +9,8 @@ introduction: What is Net Neutrality? Here we go through the history of Net Neut
 caption: Net Neutrality
 ---
 
+**TL;DR** at the end.
+
 Net Neutrality is a term that most people today have heard, but how much do you know about it? Should you care? Afterall, it's not that big of a deal, right? It's just the internet. As long as you can check your social media accounts and watch your online movies, do you think you'd be satisfied regardless? 
 
 ### Net neutrality is not necessarily about the present.
@@ -151,3 +153,7 @@ Below are some resources for taking action if you feel inclined to do so:
 * [Battle for the Net - Contact Your Representatives](https://www.battleforthenet.com/)
 
 * [Save The Open Internet](https://netneutrality.internetassociation.org/action/)
+
+Here is an excellent video explaining some Net neutrality concepts
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/UsyzP5hejxI" frameborder="0" allowfullscreen></iframe>
