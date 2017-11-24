@@ -1,3 +1,5 @@
+@import url('../fonts/Yantramanav-Medium.ttf');
+
 html {
     font-family: sans-serif;
     line-height: 1.15;
@@ -6,8 +8,52 @@ html {
 }
 body {
     margin: 0;
-    background-image: url('https://i.imgur.com/7lG7Yrd.png');
+    background: url('https://i.imgur.com/7lG7Yrd.png');
     background-attachment: fixed;
+    -webkit-animation:150s scroll infinite linear;
+  -moz-animation:150s scroll infinite linear;
+  -o-animation:150s scroll infinite linear;
+  -ms-animation:150s scroll infinite linear;
+  animation:150s scroll infinite linear;
+  top:0;
+  left:0;
+  width:100%;
+ height:100%;
+}
+@-webkit-keyframes scroll{
+  100%{
+    background-position:0px 0px;
+  }
+}
+
+@-moz-keyframes scroll{
+  100%{
+    background-position:-3000px 0px;
+  }
+}
+
+@-o-keyframes scroll{
+  100%{
+    background-position:-3000px 0px;
+  }
+}
+
+@-ms-keyframes scroll{
+  100%{
+    background-position:-3000px 0px;
+  }
+}
+
+@keyframes scroll{
+  100%{
+    background-position:-3000px 0px;
+  }
+}
+#portfolio{
+    background-color: rgba(74, 70, 84, 0.5);
+}
+.portfolio-item img {
+    border-radius: 20px;
 }
 article,
 aside,
@@ -1759,4 +1805,64 @@ footer ul a:hover {
     display: inline-block;
     vertical-align: middle;
     margin-right: .625rem;
+}
+#intro-header{
+    text-align: center;
+    background-color: rgba(249, 247, 255,0.25);
+    padding-top: 10px;
+    padding-bottom: 10px;
+    font-family: 'Yantramanav', sans-serif;
+}
+#intro-header-title{
+    color: white;
+    font-size: 3.5rem;
+    font-family: 'Yantramanav', sans-serif;
+    text-shadow: 2px 2px 2px black;
+}
+#intro-header-description{
+    color: white;
+    font-size: 1.8rem;
+    width: 80%;
+    margin-left: 10%;
+    text-shadow: 2px 2px 2px black;
+}
+@media only screen and (max-width: 1400px) {
+    #intro-header-title{
+        font-size: 2.7rem;
+    }
+    #intro-header-description{
+        font-size: 1.8rem;
+    }
+}
+@media only screen and (max-width: 1200px) {
+    #intro-header-title{
+        font-size: 2.2rem;
+    }
+    #intro-header-description{
+        font-size: 1.4rem;
+    }
+}
+@media only screen and (max-width: 1000px) {
+    #intro-header-title{
+        font-size: 2rem;
+    }
+    #intro-header-description{
+        font-size: 1.2rem;
+    }
+}
+@media only screen and (max-width: 800px) {
+    #intro-header-title{
+        font-size: 1.8rem;
+    }
+    #intro-header-description{
+        font-size: 1rem;
+    }
+}
+@media only screen and (max-width: 600px) {
+    #intro-header-title{
+        font-size: 1.5rem;
+    }
+    #intro-header-description{
+        font-size: 0.8rem;
+    }
 }
