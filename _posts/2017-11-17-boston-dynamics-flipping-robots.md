@@ -19,6 +19,17 @@ Boston Dynamics is a tech/engineering company headquartered in [Waltham, Massach
 
 This is certainly an interesting development. With advancements in artificial intelligence, robots like these could end up acting on their own. We are building them to serve us, so how long would a thinking thing submit to such treatment?
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6360281499219376"
+     data-ad-slot="4659206680"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ## ***Scary?***
 
 There's **probably** nothing to worry about. The idea of artificial intelligence being a threat to humanity is a real one to consider, however, it is much more of a complex process than some people may assume. Below is a video of Rob Miles on [Computerphile](https://www.youtube.com/user/Computerphile/) talking about some of the very real issues with artificial intelligence safety.
