@@ -19,6 +19,17 @@ The thing to keep in mind here is that companies want to discriminate against ce
 
 ### So how does this affect you?
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6360281499219376"
+     data-ad-slot="4659206680"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 At this exact moment it may not effect you at all. The concern is with how influential the internet has become, and how a non-neutral net could shape the future. The internet is used in places that you may or may not even think about. It's in your cars, your phones, and in modern homes it's even in your thermostats. The internet is used almost everywhere to accommodate our needs, and if cable companies are allowed to, they will charge you more money to continue using these devices the way you do today. These are the same devices that you've always used before simply because you are able to connect it to WiFi. 
 
 ISP's have been known to attempt charging more money to remove un-necessary restrictions from their services. For example, Comcast wanted customers to pay more money to use VPN's (Virtual Private Networks). This sort of action would affect many people who work from home and connect to their company's intranet. A lot of people use VPN's for personal reasons as well, and they could either have to cease use or pay more money.

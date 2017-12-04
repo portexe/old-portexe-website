@@ -18,6 +18,17 @@ I started off my career working at restaurants. The very first job I had was cle
 
 On my 23rd birthday I was given a 7x7 cube puzzle. I had always been into Rubik's Cubes and had practiced solving them as fast as I could, but this 7x7 was a huge step up from the 3x3 standard cube. I grabbed it and instantly began solving it. I worked at it non-stop for somewhere around 5 hours without any breaks. **I was obsessed with it**. After completing it, I realized how much time had gone by without a care in the world. I remember wishing work was like that. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6360281499219376"
+     data-ad-slot="4659206680"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 ### **So why wasn't it?**
 
 The lesson I learned from the puzzle was that I enjoy thinking and solving problems. If I could find a job where I could think and solve problems, work would fly by and I would enjoy myself. I contemplated for some time and decided to look into programming. Programming was a perfect fit for this passion I had found within myself. I began teaching myself how to program software, and even though it was very difficult at first, I became decent enough to begin thinking about a career in software engineering.
