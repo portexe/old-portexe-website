@@ -50,6 +50,17 @@ Net Neutrality has a history that goes further back than what I present in this 
 
 **March 14, 2002** - The FCC (Federal Commuications Commission) releases [a statement](http://transition.fcc.gov/Bureaus/Cable/News_Releases/2002/nrcb0201.html) classifying internet services as an "interstate information service" and is subject to FCC jurisdiction. The release states that the FCC's goal is to promote broadband deployment to result in better prices and availability for American consumers. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6360281499219376"
+     data-ad-slot="4659206680"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 **April 23, 2003** - Columbia Law School proffessor Tim Wu releases a paper, oficially using the term "Net Neutrality" for the first time. In this paper, Tim explains why Net Neutrality is a desired outcome, along with the best route to take in order to achieve Net Neutrality. The approaches that Wu compares in his paper are:
 
 1. Structural Remedies
@@ -114,6 +125,17 @@ Recently an image went viral of a Portugese cell phone data plan which appears t
 
 [This news article](http://www.9news.com/news/local/verify/verify-what-does-portugal-have-to-do-with-us-dumping-net-neutrality-/494021679) attempts to debunk this image. If you watch the video, the reporter explains that the cheapest plan is a 1GB data plan. If you want more data you can purchase the 10GB plan which offers more data for **certain types** of applicaitions. You can also purchase a 30GB plan, where you can use your data for any website or app. This video does not debunk the image in any way. It appears to me as though he literally explains that this set of packages is a clear example of what America is currently fearing. 
 
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6360281499219376"
+     data-ad-slot="4659206680"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
+
 The idea is that ISP's and cable companies will begin discriminating against certain apps and different forms of internet traffic. This is not a fear based on paranoia. This is a fear based on historical evidence. Below I will provide several examples of companies attempting to do this in the past before being forced to stop due to Net neutrality rules:
 
 * In 2001 a Comcast customer began complaining about Comcast banning the usage of his VPN. Comcast's response to his complaints were the following:
@@ -147,6 +169,17 @@ Well we have a solution, and it is called the [Open Internet Order](https://apps
 Ajit Pai believes that it is in the best interest of America to take the government and regulations out of the internet and give the power to engineers.
 
 I will not go into very much detail about why this is more than likely very untrue, as Tm Wu did a fantastic job of explaining this in [his paper](http://whatisnetneutrality.org/timeline).
+
+<script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script>
+<ins class="adsbygoogle"
+     style="display:block; text-align:center;"
+     data-ad-layout="in-article"
+     data-ad-format="fluid"
+     data-ad-client="ca-pub-6360281499219376"
+     data-ad-slot="4659206680"></ins>
+<script>
+     (adsbygoogle = window.adsbygoogle || []).push({});
+</script>
 
 
 ### In conclusion
