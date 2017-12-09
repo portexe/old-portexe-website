@@ -30,6 +30,30 @@
             <div style="margin: 0 auto; display: block; text-align: center; position: absolute; top: 50px; right: 50px;" class="fb-share-button" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F{{ site.url }}%2F{{ page.url }}%2F&amp;src=sdkpreparse">Share</a></div>
 
             <article role="article" id="post" class="post-content" itemprop="articleBody">
+
+                <div class="post-top-social">
+                    <hr>
+                    <p style="text-align: center; font-weight: 700; font-size: 24px;">Be sure to follow me for upcoming content!</p>
+                     <p style="text-align: center;">
+                      {% if site.facebook_username %}
+                      <a itemprop="facebook" href="https://www.facebook.com/{{ site.facebook_username }}" title="Facebook">
+                        <svg><use xlink:href="#icon-facebook"></use></svg>
+                      </a>
+                      {% endif %}
+                      {% if site.twitter_username %}
+                      <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
+                        <svg><use xlink:href="#icon-twitter"></use></svg>
+                      </a>
+                      {% endif %}
+                      {% if site.instagram_username %}
+                      <a itemprop="instagram" href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
+                        <svg><use xlink:href="#icon-instagram"></use></svg>
+                      </a>
+                      {% endif %}
+                    </p>
+                      <hr>
+                </div>
+
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>

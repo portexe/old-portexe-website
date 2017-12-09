@@ -1740,6 +1740,22 @@ footer svg {
     vertical-align: middle;
     margin-right: .625rem;
 }
+.post-top-social p {
+    text-decoration: none;
+    color: #141414;
+    font-size: 1rem;
+    line-height: 1.563rem
+}
+.post-top-social span {
+    font-weight: 700
+}
+.post-top-social svg {
+    width: 28px;
+    height: 28px;
+    display: inline-block;
+    vertical-align: middle;
+    margin-right: .625rem;
+}
 @media only screen and (min-width: 37.5rem) {
     footer svg {
         margin-right: 1.25rem
