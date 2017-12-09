@@ -10,13 +10,21 @@
         enable_page_level_ads: true
       });
     </script>
+    <div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=183893755435070';
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
     <body class="has-push-menu">
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
         {% include header.html %}
         <section class="post">
             <article role="article" id="post" class="post-content" itemprop="articleBody">
-                <div class="fb-share-button" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.zackazt.com%2Fa-letter-to-the-fcc-chairman%2F&amp;src=sdkpreparse">Share</a></div>
+               
                 <p itemprop="post-info" class="post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
@@ -29,6 +37,8 @@
                 </p>
                 <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
                 <p itemprop="description" class="subtitle">{{ page.description }}</p>
+
+                 <div class="fb-share-button" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F{{ site.url }}%2F{{ page.url }}%2F&amp;src=sdkpreparse">Share</a></div>
 
                 {% if page.image %}
                     <img src="{{ page.image }}" alt="{{ page.caption }}" class="post-cover">
