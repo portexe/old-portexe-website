@@ -1,5 +1,8 @@
 <section class="share">
     <h3>Share</h3>
+
+    <div class="fb-share-button" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-size="large" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fwww.zackazt.com%2Fa-letter-to-the-fcc-chairman%2F&amp;src=sdkpreparse">Share</a></div>
+
     <a aria-label="Compartilhar no Twitter" href="https://twitter.com/intent/tweet?text=&quot;{{ page.twitter_text }}&quot;%20{{ site.url }}{{ page.url }}%20via%20&#64;{{ site.twitter_username }}&hashtags={% for tag in page.tags %}{{tag}},{% endfor %}"
     onclick="window.open(this.href, 'twitter-share', 'width=550,height=235');return false;" title="Share on Twitter">
         <svg class="icon icon-twitter"><use xlink:href="#icon-twitter"></use></svg>
