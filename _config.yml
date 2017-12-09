@@ -2,7 +2,7 @@
 title: Zackery Wilson | Web and App Developer of Colorado Springs
 email: zackazt@gmail.com
 # description: Web and App development in the Colorado Springs area. Building front-end user interfaces for complex systems, static websites, web and mobile applications, etc.
-description: Websites, Apps, Animation, and Graphic Design. Building user interfaces, static websites, and providing visual appeal.
+description: Websites, Apps, Animation, and Graphic Design. Follow me to learn technology casually.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.zackazt.com" # the base hostname & protocol for your site
 google_analytics: "UA-109849250-1"
@@ -12,7 +12,7 @@ image_sm: "https://i.imgur.com/TLvihxr.png"
 image_fb: "https://i.imgur.com/5LLBvP7.png"
 
 # User Settings
-username: ZackAZT
+username: ZackAZT - Tech Explained Casually
 user_description: Web and App Developer of the Colorado Springs area.
 disqus_username: zwilsondev-com
 
