@@ -2,12 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zackery Wilson | Web and App Developer of Colorado Springs</title>
-    <description>Web and App development in the Colorado Springs area. Building front-end user interfaces for complex systems, static websites, web and mobile applications, etc.</description>
+    <description>Websites, Apps, Animation, and Graphic Design. Follow me to learn technology casually.</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 24 Nov 2017 17:49:10 -0700</pubDate>
-    <lastBuildDate>Fri, 24 Nov 2017 17:49:10 -0700</lastBuildDate>
+    <pubDate>Fri, 08 Dec 2017 20:34:15 -0700</pubDate>
+    <lastBuildDate>Fri, 08 Dec 2017 20:34:15 -0700</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>A Letter To The FCC Chairman</title>
+        <description>&lt;p&gt;Dear Ajit Pai,&lt;/p&gt; &lt;p&gt;You state that you are &lt;a href=&quot;https://www.pbs.org/newshour/show/fcc-chair-ajit-pai-explains-wants-scrap-net-neutrality&quot;&gt;“in favor of a free and open Internet”&lt;/a&gt; for American citizens, however, your recent announcement on voting to repeal the FCC’s Open Internet Order directly contradicts any such statement of supporting a free and open Internet. Protecting Internet neutrality is absolutely vital for the American Internet to continue to grow organically. You state that the Title II regulations do more harm than good for the American people in regards to Internet access, and that without these regulations, the evolution of the Internet would then be in the hands of &lt;a href=&quot;https://www.politico.com/story/2017/11/22/ajit-pai-fcc-defends-net-neutrality-repeal-25816&quot;&gt;“engineers...</description>
+        <pubDate>Fri, 08 Dec 2017 00:00:00 -0700</pubDate>
+        <link>http://localhost:4000/a-letter-to-the-fcc-chairman/</link>
+        <guid isPermaLink="true">http://localhost:4000/a-letter-to-the-fcc-chairman/</guid>
+        
+        
+        <category>tech politics</category>
+        
+      </item>
     
       <item>
         <title>An Analysis of Net Neutrality in America</title>
