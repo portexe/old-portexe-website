@@ -1,7 +1,7 @@
 # Site Settings
 title: TheZackAZT - Web and App Developer
 email: zackazt@gmail.com
-description: Websites, Apps, Animation, and Graphic Design, as well as Technology Explained Casually.
+description: Websites, Apps, and Technology Explained Casually.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.zackazt.com" # the base hostname & protocol for your site
 google_analytics: "UA-109849250-1"
@@ -12,7 +12,7 @@ image_fb: "https://i.imgur.com/5LLBvP7.png"
 
 # User Settings
 username: ZackAZT - Tech Explained Casually
-user_description: Websites, Apps, Animation, and Graphic Design, as well as Technology Explained Casually.
+user_description: Websites, Apps, and Technology Explained Casually.
 disqus_username: zwilsondev-com
 
 # Social Media
