@@ -10,15 +10,6 @@
         enable_page_level_ads: true
       });
     </script>
-    <div id="fb-root"></div>
-<script>(function(d, s, id) {
-  var js, fjs = d.getElementsByTagName(s)[0];
-  if (d.getElementById(id)) return;
-  js = d.createElement(s); js.id = id;
-  js.src = 'https://connect.facebook.net/en_US/sdk.js#xfbml=1&version=v2.11&appId=183893755435070';
-  fjs.parentNode.insertBefore(js, fjs);
-}(document, 'script', 'facebook-jssdk'));</script>
-    <body class="has-push-menu">
 
         {% include minutes-to-read.html %}
         {% include svg-icons.html %}
@@ -26,8 +17,6 @@
 
 
         <section class="post">
-
-            <div style="margin: 0 auto; display: block; text-align: center; position: absolute; top: 50px; right: 50px;" class="fb-share-button" data-href="{{ site.url }}{{ page.url }}" data-layout="button_count" data-size="small" data-mobile-iframe="true"><a class="fb-xfbml-parse-ignore" target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2F{{ site.url }}%2F{{ page.url }}%2F&amp;src=sdkpreparse">Share</a></div>
 
             <article role="article" id="post" class="post-content" itemprop="articleBody">
 
@@ -76,18 +65,17 @@
                 {{ content }}
             </article>
 
-            <div class="progress-bar" data-minutes="{{ totalMinutes }}">
+            <!-- <div class="progress-bar" data-minutes="{{ totalMinutes }}">
                 <span class="time-completed"></span>
                 <span class="time-remaining"></span>
                 <div class="bar">
                     <span class="completed" style="width:0%;"></span>
                     <span class="remaining" style="width:100%;"></span>
                 </div>
-            </div>
+            </div> -->
 
             {% include share.html %}
             {% include author.html %}
-            {% include comments.html %}
             {% include footer.html %}
         </section>
     </body>
