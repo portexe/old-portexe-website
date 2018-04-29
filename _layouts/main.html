@@ -15,14 +15,12 @@ layout: compress
         {% include footer.html %}
         <script>
             $(document).ready(function() {
-                console.log("TRYING TO WORKKK!!!!!");
-                var feed = "https://news.google.com/news/rss/headlines/section/topic/TECHNOLOGY?ned=us&hl=en&gl=US";
+                console.log("TRYING TO WORKKK!!!!!"); 
+                var feed = "https://newsapi.org/v2/top-headlines?country=us&'apiKey=9489cb7dfebd4a9b909ef63869df1030";
                 $.ajax({
                     url: feed,
-                    accepts:{
-                        xml:"application/rss+xml"
-                    },
-                    dataType:"xml",
+                    type: "GET",
+                    dataType:"json",
                     success:function(data) {
                         console.log('DATA: ', data);
                         $(data).find("item").each(function () {
