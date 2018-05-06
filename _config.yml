@@ -1,7 +1,7 @@
 # Site Settings
-title: TheZackAZT - Web and App Developer
+title: PortEXE
 email: zackazt@gmail.com
-description: Websites, Apps, and Technology Explained Casually.
+description: Tech Explained Casually
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.zackazt.com" # the base hostname & protocol for your site
 google_analytics: "UA-109849250-1"
@@ -18,8 +18,9 @@ disqus_username: zwilsondev-com
 # Social Media
 # Remove the item if you don't need it
 github_username: zackazt
-twitter_username: portexe
+#twitter_username: portexe
 instagram_username: port.exe
+youtube_username: jackbullenskie
 
 # Build settings
 markdown: kramdown

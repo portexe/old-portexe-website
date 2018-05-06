@@ -19,6 +19,11 @@
     <svg><use xlink:href="#icon-medium"></use></svg>
   </a>
   {% endif %}
+  {% if site.youtube_username %}
+  <a id="icon-youtube" itemprop="youtube" href="https://www.youtube.com/{{ site.youtube_username }}" title="YouTube">
+    <svg><use xlink:href="#icon-youtube"></use></svg>
+  </a>
+  {% endif %}
   {% if site.instagram_username %}
   <a itemprop="instagram" href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
     <svg><use xlink:href="#icon-instagram"></use></svg>
@@ -29,4 +34,5 @@
     <svg><use xlink:href="#icon-linkedin"></use></svg>
   </a>
   {% endif %}
+
 </p>

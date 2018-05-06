@@ -8,32 +8,10 @@ layout: compress
     <body class="main-page has-push-menu">
         {% include svg-icons.html %}
         {% include header.html %}
-        {% include news.html %}
             <section class="content">
                 {{ content }}
             </section>
         {% include footer.html %}
-        <script>
-            $(document).ready(function() {
-                console.log("TRYING TO WORKKK!!!!!"); 
-                var feed = "https://newsapi.org/v2/top-headlines?country=us&'apiKey=9489cb7dfebd4a9b909ef63869df1030";
-                $.ajax({
-                    url: feed,
-                    type: "GET",
-                    dataType:"json",
-                    success:function(data) {
-                        console.log('DATA: ', data);
-                        $(data).find("item").each(function () {
-                            var el = $(this);
-                            console.log("------------------------");
-                            console.log("title      : " + el.find("title").text());
-                            console.log("link       : " + el.find("link").text());
-                            console.log("description: " + el.find("description").text());
-                        });
-                    }   
-                });
-            });
-        </script>
     </body>
 </html>
 

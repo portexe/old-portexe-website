@@ -110,7 +110,7 @@ code,
 kbd,
 samp {
     font-family: monospace, monospace;
-    font-size: 1em
+    font-size: 1em;
 }
 dfn {
     font-style: italic
@@ -120,28 +120,28 @@ mark {
     color: #000
 }
 small {
-    font-size: 80%
+    font-size: 80%;
 }
 sub,
 sup {
     font-size: 75%;
     line-height: 0;
     position: relative;
-    vertical-align: baseline
+    vertical-align: baseline;
 }
 sub {
-    bottom: -.25em
+    bottom: -.25em;
 }
 sup {
-    top: -.5em
+    top: -.5em;
 }
 audio,
 video {
-    display: inline-block
+    display: inline-block;
 }
 audio:not([controls]) {
     display: none;
-    height: 0
+    height: 0;
 }
 img {
     border-style: none
@@ -1830,6 +1830,12 @@ footer ul a:hover {
     width: 80%;
     margin-left: 10%;
     text-shadow: 2px 2px 2px black;
+}
+#intro-section-social-media a svg{
+    fill: white !important;
+}
+#intro-section-social-media a svg:hover{
+    fill: black !important;
 }
 @media only screen and (max-width: 1400px) {
     #intro-header-title{
