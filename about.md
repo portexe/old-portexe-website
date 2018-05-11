@@ -9,7 +9,7 @@ permalink: /about/
 
 ## About
 
-I am located in Colorado Springs, Colorado, but I service business nationally. I have worked as a PC Technician, Website Designer, and now as a Software Engineer. I strive to stay on top of the latest technologies. I'm passionate about finding new ways to use technology to solve business problems.
+I am located in Colorado Springs, Colorado, but I service businesses nationally. I have worked as a PC Technician, Website Designer, and now as a Software Engineer. I strive to stay on top of the latest technologies. I'm passionate about finding new ways to use technology to solve business problems.
 
 ### Services
 I develop custom applications and websites for small businesses. All businesses should have a website today, and most small businesses can benefit from custom applications that compliment their workflow.
