@@ -1,7 +1,7 @@
 # Site Settings
 title: PortEXE
 email: zackazt@gmail.com
-description: Tech Explained Casually
+description: Technology Explained Casually
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://www.portexe.com" # the base hostname & protocol for your site
 google_analytics: "UA-109849250-1"
@@ -11,14 +11,14 @@ image_sm: "https://i.imgur.com/OM50wrX.png"
 image_fb: "https://i.imgur.com/5LLBvP7.png"
 
 # User Settings
-username: PortEXE - Tech Explained Casually
+username: PortEXE - Technology Explained Casually
 user_description: Websites, Apps, and Technology Explained Casually.
 disqus_username: zwilsondev-com
 
 # Social Media
 # Remove the item if you don't need it
 github_username: zackazt
-#twitter_username: portexe
+twitter_username: portexe
 instagram_username: port.exe
 youtube_username: jackbullenskie
 

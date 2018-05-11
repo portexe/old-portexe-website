@@ -9,9 +9,16 @@ permalink: /about/
 
 ## About
 
-I develop apps and websites. I had the idea to start reaching out to educate the public on beginner to advanced topics in technology. My goal is to make it easy and fun to learn these topics, and to get people interested in technology. Feel free to contact me! Follow me on social media to stay up to date!
+I am located in Colorado Springs, Colorado, but I service business nationally. I have worked as a PC Technician, Website Designer, and now as a Software Engineer. I strive to stay on top of the latest technologies. I'm passionate about finding new ways to use technology to solve business problems.
 
-### Follow me on social media!
+### Services
+I develop custom applications and websites for small businesses. All businesses should have a website today, and most small businesses can benefit from custom applications that compliment their workflow.
+
+### Technology Explained Casually
+I had the idea to start reaching out to educate the public on beginner to advanced topics in technology. My goal is to make it easy and fun to learn these topics, and to get people interested in technology. 
+
+### Feel free to contact me! Follow me on social media to stay up to date!
+
 <div class="social-media-parent">
 	{% include social-media.html %}
 </div>
