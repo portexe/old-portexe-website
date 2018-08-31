@@ -17,7 +17,7 @@ permalink: /contact/
   <img itemprop="image" style="width: 200px;" class="img-rounded" src="{{site.author_image}}" alt="Zack Wilson">
 
 
-  <p>Hey there, thanks for dropping by! For any inquiries please feel free to contact me. Fill out the form below and I will get back to you shortly.</p>
+  <p>Hey there, thanks for dropping by! For any inquiries please feel free to contact me. You will have the most luck by reaching out to me on social media for now, but you can also fill out the form below and I will get back to you shortly.</p>
   <hr>
   <h2>Contact Me</h2>
 

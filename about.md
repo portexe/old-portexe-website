@@ -9,13 +9,17 @@ permalink: /about/
 
 ## About
 
-I am located in Colorado Springs, Colorado, but I service businesses nationally. I have worked as a PC Technician, Website Designer, and now as a Software Engineer. I strive to stay on top of the latest technologies. I'm passionate about finding new ways to use technology to solve business problems.
+I am a full stack web-developer, which means that I work on all parts of the web-development process. I really enjoy programming. It's sort of like solving puzzles. The years I've spent building mobile apps, games, web applications, and more have been some of the most rewarding and enjoyable times of my life.
+
+I also really enjoy teaching various topics in technology to a broad audience, or to those who are new to the field. The field of technology is immensely vast and can be intimidating to many people who want to start. What I am trying to do is to create a new way to teach and explain these topics in such a way that anyone can understand.
 
 ### Services
-I develop custom applications and websites for small businesses. All businesses should have a website today, and most small businesses can benefit from custom applications that compliment their workflow.
+I develop custom applications and websites for small businesses. All businesses should have a website today , and most small businesses can benefit from custom applications that compliment their workflow.
+
+I am currently open to accepting new projects if it seems to be a good match.
 
 ### Technology Explained Casually
-I had the idea to start reaching out to educate the public on beginner to advanced topics in technology. My goal is to make it easy and fun to learn these topics, and to get people interested in technology. 
+I had the idea to start reaching out to educate the public on beginner to advanced topics in technology. My goal is to make it easy and fun to learn these topics, and to get people interested in technology. For those who are already interested in technology, I hope to provide a way of learning about the topics that will be both entertaining and enlightening.
 
 ### Feel free to contact me! Follow me on social media to stay up to date!
 
