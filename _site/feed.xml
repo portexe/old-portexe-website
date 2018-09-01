@@ -5,9 +5,21 @@
     <description>Technology Explained Casually</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Fri, 31 Aug 2018 10:47:57 -0600</pubDate>
-    <lastBuildDate>Fri, 31 Aug 2018 10:47:57 -0600</lastBuildDate>
+    <pubDate>Sat, 01 Sep 2018 13:38:49 -0600</pubDate>
+    <lastBuildDate>Sat, 01 Sep 2018 13:38:49 -0600</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>What Is A Motherboard?</title>
+        <description>&lt;h4 id=&quot;rather-watch-than-read&quot;&gt;Rather watch than read?&lt;/h4&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/8uI5fWE8x5w&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;what-is-a-motherboard&quot;&gt;What is a motherboard?&lt;/h2&gt; &lt;p&gt;The motherboard in modern computers is a circuit board that all components of the computer connects to. Motherboards are also often referred to as logic boards or mainboards. The job of the motherboard is to literally connect all of the computer’s components, and to be the physical medium for the electricity and data that gets distributed to all of the components. Modern motherboards allow computer components to be plugged in and removed easily so that it’s simple to customize, upgrade, or replace parts....</description>
+        <pubDate>Sat, 01 Sep 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/what-is-a-motherboard/</link>
+        <guid isPermaLink="true">http://localhost:4000/what-is-a-motherboard/</guid>
+        
+        
+        <category>tech explained casually</category>
+        
+      </item>
     
       <item>
         <title>Why Regulations On Artificial Intelligence Should Be Discussed Today</title>
