@@ -1843,6 +1843,7 @@ footer ul a:hover {
 }
 #intro-section-social-media a svg{
     fill: white !important;
+    height: 70px;
     width: 70px;
     margin-left: 35px;
     margin-right: 35px;

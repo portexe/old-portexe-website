@@ -1,7 +1,12 @@
-<p>
-  {% if site.github_username %}
-  <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
-    <svg><use xlink:href="#icon-github"></use></svg>
+<p style="text-align: center;">
+    {% if site.youtube_username %}
+  <a id="icon-youtube" itemprop="youtube" href="https://www.youtube.com/{{ site.youtube_username }}" title="YouTube">
+    <svg><use xlink:href="#icon-youtube"></use></svg>
+  </a>
+  {% endif %}
+  {% if site.twitch_username %}
+  <a itemprop="linkedin" href="https:/www.twitch.tv/{{ site.twitch_username }}" title="Twitch">
+    <svg><use xlink:href="#icon-twitch"></use></svg>
   </a>
   {% endif %}
   {% if site.facebook_username %}
@@ -19,11 +24,6 @@
     <svg><use xlink:href="#icon-medium"></use></svg>
   </a>
   {% endif %}
-  {% if site.youtube_username %}
-  <a id="icon-youtube" itemprop="youtube" href="https://www.youtube.com/{{ site.youtube_username }}" title="YouTube">
-    <svg><use xlink:href="#icon-youtube"></use></svg>
-  </a>
-  {% endif %}
   {% if site.instagram_username %}
   <a itemprop="instagram" href="https://www.instagram.com/{{ site.instagram_username }}" title="Instagram">
     <svg><use xlink:href="#icon-instagram"></use></svg>
@@ -34,5 +34,9 @@
     <svg><use xlink:href="#icon-linkedin"></use></svg>
   </a>
   {% endif %}
-
+  {% if site.github_username %}
+  <a itemprop="github" href="https://github.com/{{ site.github_username }}" title="Github">
+    <svg><use xlink:href="#icon-github"></use></svg>
+  </a>
+  {% endif %}
 </p>

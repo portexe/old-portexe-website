@@ -21,8 +21,4 @@ I am currently open to accepting new projects if it seems to be a good match.
 ### Technology Explained Casually
 I had the idea to start reaching out to educate the public on beginner to advanced topics in technology. My goal is to make it easy and fun to learn these topics, and to get people interested in technology. For those who are already interested in technology, I hope to provide a way of learning about the topics that will be both entertaining and enlightening.
 
-### Feel free to contact me! Follow me on social media to stay up to date!
-
-<div class="social-media-parent">
-	{% include social-media.html %}
-</div>
+<h3 style="text-align: center;">Feel free to contact me! Follow me on social media to stay up to date!</h3>
