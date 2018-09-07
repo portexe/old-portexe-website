@@ -5,9 +5,21 @@
     <description>Technology Explained Casually</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Thu, 06 Sep 2018 10:21:52 -0600</pubDate>
-    <lastBuildDate>Thu, 06 Sep 2018 10:21:52 -0600</lastBuildDate>
+    <pubDate>Fri, 07 Sep 2018 14:10:45 -0600</pubDate>
+    <lastBuildDate>Fri, 07 Sep 2018 14:10:45 -0600</lastBuildDate>
     <generator>Jekyll v3.5.1</generator>
+    
+      <item>
+        <title>Beginner JavaScript Tutorial Series</title>
+        <description>&lt;h3 id=&quot;welcome&quot;&gt;Welcome!&lt;/h3&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/videoseries?list=PL2pKsGhl_rg_Fh6qrr3d9fFFFaKj8xbox&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;This blog post is to accompany my YouTube Beginner JavaScript tutorial series. In this post I will be providing links to resources that are used in the series.&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://code.visualstudio.com/download&quot;&gt;Visual Studio Code&lt;/a&gt;&lt;/p&gt; &lt;p&gt;&lt;a href=&quot;https://www.google.com/chrome/browser/&quot;&gt;Google Chrome&lt;/a&gt;&lt;/p&gt; &lt;h3 id=&quot;will-there-be-other-tutorial-series&quot;&gt;Will there be other tutorial series’?&lt;/h3&gt; &lt;p&gt;Yes! I will be creating an intermediate, and an advanced JavaScript/Web Development series as well. On top of these I also will be creating “applied” programming tutorials. I tend to do thesse live on Twitch and then export them to YouTube afterwards. So if you like that sort of...</description>
+        <pubDate>Fri, 07 Sep 2018 00:00:00 -0600</pubDate>
+        <link>http://localhost:4000/beginner-javascript-tutorial/</link>
+        <guid isPermaLink="true">http://localhost:4000/beginner-javascript-tutorial/</guid>
+        
+        
+        <category>Web Development Tutorial</category>
+        
+      </item>
     
       <item>
         <title>What Is The BIOS?</title>
