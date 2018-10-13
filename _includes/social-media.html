@@ -5,7 +5,7 @@
   </a>
   {% endif %}
   {% if site.twitch_username %}
-  <a itemprop="linkedin" href="https://www.twitch.tv/{{ site.twitch_username }}" title="Twitch">
+  <a itemprop="twitch" href="https://www.twitch.tv/{{ site.twitch_username }}" title="Twitch">
     <svg><use xlink:href="#icon-twitch"></use></svg>
   </a>
   {% endif %}
@@ -14,11 +14,17 @@
     <svg><use xlink:href="#icon-facebook"></use></svg>
   </a>
   {% endif %}
+  {% if site.patreon_username %}
+  <a itemprop="patreon" href="https://www.patreon.com/{{ site.patreon_username }}" title="Patreon">
+    <svg><use xlink:href="#icon-patreon"></use></svg>
+  </a>
+  {% endif %}
   {% if site.twitter_username %}
   <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
     <svg><use xlink:href="#icon-twitter"></use></svg>
   </a>
   {% endif %}
+
   {% if site.medium_username %}
   <a itemprop="medium" href="https://medium.com/@{{ site.medium_username }}" title="Twitter">
     <svg><use xlink:href="#icon-medium"></use></svg>
