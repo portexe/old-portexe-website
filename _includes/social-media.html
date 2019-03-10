@@ -9,17 +9,16 @@
         <svg><use xlink:href="#icon-facebook"></use></svg>
     </a>
     {% endif %}
-    <!-- {% if site.patreon_username %}
-    <a itemprop="patreon" href="https://www.patreon.com/{{ site.patreon_username }}" title="Patreon">
-        <svg><use xlink:href="#icon-patreon"></use></svg>
-    </a>
-    {% endif %} -->
     {% if site.twitter_username %}
     <a itemprop="twitter" href="https://twitter.com/{{ site.twitter_username }}" title="Twitter">
         <svg><use xlink:href="#icon-twitter"></use></svg>
     </a>
     {% endif %}
-
+    {% if site.patreon_username %}
+    <a itemprop="patreon" href="https://www.patreon.com/{{ site.patreon_username }}" title="Patreon">
+        <svg><use xlink:href="#icon-patreon"></use></svg>
+    </a>
+    {% endif %}
     {% if site.youtube_username %}
         <a id="icon-youtube" itemprop="youtube" href="https://www.youtube.com/{{ site.youtube_username }}" title="YouTube">
             <svg><use xlink:href="#icon-youtube"></use></svg>
