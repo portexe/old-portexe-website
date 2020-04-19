@@ -153,3 +153,100 @@ As you can see, variables in the global scope can be accessed by both of these f
 
 It is often best practice to avoid setting variables in the Global scope if possible. This is because we often want to avoid other parts of our code accessing and changing values that are used elsewhere in the code. That can lead to some unexpected behavior. Something to keep in mind.
 
+# Block Scope
+
+## let and const are block scoped
+
+What this means is that variables declared using ```const``` and ```let``` are bound to the block they are defined within, but ```var``` is not. Let's take a look at some examples to get a good understanding of what this implies.
+
+Let's look at this ```if``` block. Clearly ```true``` is equal to ```true```, so the code inside of the block will run:
+
+```
+if(true){
+  var x = 2;
+}
+console.log(x); // logs 2
+```
+
+All of the code within the curly braces are inside of a ***code block*** which has it's own scope. Since ```var``` is not block scoped, it is not bound by the block's scope, and is visible within the ```console.log()```. But let's look at the following variation:
+
+
+```
+if(true){
+  let x = 2;
+}
+console.log(x); // ReferenceError
+```
+
+Since ```let``` is block scoped, it is bound by the block's scope and is not visible to the ```console.log()```. Since that's the case, we get a ```ReferenceError``` when attempting to access it. The same would happen here with ```const```.
+
+I want to show you an interesting example using the same example, but let's flip ```true``` to ```false``` and see what happens with hoisting.
+
+
+```
+if(false){
+  var x = 2;
+}
+console.log(x); // logs undefined
+```
+
+Since ```var``` is not block-scoped and binding declarations are also hoisted mixed with the fact that ```var``` declarations are evaluated prior to runtime: we get ```undefined``` here. 
+
+The above code can be re-written to look like this:
+
+```
+var x;
+if(false){
+  x = 2;
+}
+console.log(x); // logs undefined
+```
+
+# Block Scope
+
+## let and const are block scoped
+
+What this means is that variables declared using ```const``` and ```let``` are bound to the block they are defined within, but ```var``` is not. Let's take a look at some examples to get a good understanding of what this implies.
+
+Let's look at this ```if``` block. Clearly ```true``` is equal to ```true```, so the code inside of the block will run:
+
+```
+if(true){
+  var x = 2;
+}
+console.log(x); // logs 2
+```
+
+All of the code within the curly braces are inside of a ***code block*** which has it's own scope. Since ```var``` is not block scoped, it is not bound by the block's scope, and is visible within the ```console.log()```. But let's look at the following variation:
+
+
+```
+if(true){
+  let x = 2;
+}
+console.log(x); // ReferenceError
+```
+
+Since ```let``` is block scoped, it is bound by the block's scope and is not visible to the ```console.log()```. Since that's the case, we get a ```ReferenceError``` when attempting to access it. The same would happen here with ```const```.
+
+I want to show you an interesting example using the same example, but let's flip ```true``` to ```false``` and see what happens with hoisting.
+
+
+```
+if(false){
+  var x = 2;
+}
+console.log(x); // logs undefined
+```
+
+Since ```var``` is not block-scoped and binding declarations are also hoisted mixed with the fact that ```var``` declarations are evaluated prior to runtime: we get ```undefined``` here. 
+
+The above code can be re-written to look like this:
+
+```
+var x;
+if(false){
+  x = 2;
+}
+console.log(x); // logs undefined
+```
