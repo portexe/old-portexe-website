@@ -9,10 +9,6 @@ introduction: In this post I go over what the BIOS is, along with a brief histor
 caption: What is the BIOS?
 ---
 
-#### Rather watch than read?
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/gk038Ypl4cE" frameborder="0" gesture="media" allowfullscreen></iframe>
-
 Almost everyone who has turned on a PC and watched the screen has seen the word BIOS, but what exactly is it? It’s actually very simple, but is also perhaps the important part of the booting process.
 
 ## What is a BIOS?

@@ -9,10 +9,6 @@ introduction: In this post I go over what RAM is, the origins of RAM, the differ
 caption: What is RAM?
 ---
 
-#### Rather watch than read?
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/_b2--AyoqRg" frameborder="0" gesture="media" allowfullscreen></iframe>
-
 ## So What Is RAM?
 
 RAM stands for random access memory. It is used specifically to hold data for applications that are currently running, including your operating system. So when you load up your favorite app, the Operating System loads the application from the hard drive into RAM. Unlike RAM’s cousin SAM (sequential access memory), applications can access the data in RAM by address, allowing for much faster speeds than going through each byte sequentially until it gets to its destination. RAM is most commonly seen as small rectangular chips that can be connected directly to the motherboard of a computer.

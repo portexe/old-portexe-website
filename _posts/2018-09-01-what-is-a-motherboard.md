@@ -9,10 +9,6 @@ introduction: In this post I go over what a motherboard is, the origins of the m
 caption: What is a Motherboard?
 ---
 
-#### Rather watch than read?
-
-<iframe width="854" height="480" src="https://www.youtube.com/embed/8uI5fWE8x5w" frameborder="0" gesture="media" allowfullscreen></iframe>
-
 ## What is a motherboard?
 
 The motherboard in modern computers is a circuit board that all components of the computer connects to. Motherboards are also often referred to as logic boards or mainboards. The job of the motherboard is to literally connect all of the computer’s components, and to be the physical medium for the electricity and data that gets distributed to all of the components. Modern motherboards allow computer components to be plugged in and removed easily so that it’s simple to customize, upgrade, or replace parts. Motherboards also come in several shapes and sizes in order to ensure that they can fit in different cases. Motherboards literally bring everything together.
