@@ -1,0 +1,470 @@
+I"I<main class="home" id="post" role="main" itemprop="mainContentOfPage" itemscope="itemscope" itemtype="http://schema.org/Blog">
+    <section id="intro-header" class="intro-header">
+	<!-- <h1 style="color: #d6d2c0; text-align: center; margin-bottom: 50px;">Zackery Wilson - Software Engineer and Web Developer</h1> -->
+
+	<h1 style="font-size: 36px !important; margin-bottom: 35px;" id="intro-header-description">Follow Me Here!</h1>
+	<span id="intro-section-social-media"><p style="text-align: center;">
+    
+    
+    <a itemprop="facebook" href="https://www.facebook.com/Portexe-2123922254496260" title="Facebook">
+        <svg><use xlink:href="#icon-facebook"></use></svg>
+    </a>
+    
+    
+    <a itemprop="twitter" href="https://twitter.com/portexe" title="Twitter">
+        <svg><use xlink:href="#icon-twitter"></use></svg>
+    </a>
+    
+    
+    
+        <a id="icon-youtube" itemprop="youtube" href="https://www.youtube.com/channel/UCjGQyJCSU_VVMTu5nigonqg" title="YouTube">
+            <svg><use xlink:href="#icon-youtube"></use></svg>
+        </a>
+    
+
+    
+    
+    <a itemprop="instagram" href="https://www.instagram.com/port.exe" title="Instagram">
+        <svg><use xlink:href="#icon-instagram"></use></svg>
+    </a>
+    
+    
+    
+    <a itemprop="github" href="https://github.com/zackazt" title="Github">
+        <svg><use xlink:href="#icon-github"></use></svg>
+    </a>
+    
+</p></span>
+</section>
+    <!-- <div id="portfolio" style="padding-top: 2px; ">
+<h4 style="color: #d6d2c0; margin-left: 20px; margin-bottom: 20px; font-size: 28px; text-align: center;">Check out some of my projects:</h4>
+<div id="grid" class="row flex-grid">
+    <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">Casual Death Music</span>
+                <a href="http://www.csldth.com/" target="_blank">
+                    <img src="/assets/img/portfolio/csldth_preview.png" style="width: 100%; box-shadow: 2px 2px 2px black; margin-top: 15px;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+     <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">Columbus, GA Disc Golf</span>
+                <a href="/cgdgc/" target="_blank">
+                    
+                    <img src="/assets/img/portfolio/discgolf_preview.png" style="width: 100%; box-shadow: 2px 2px 2px black; margin-top: 15px;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+     <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">Tablr - An Angular 2 Component</span>
+                <a href="https://github.com/Zackazt/Tablr" target="_blank">
+                    <img src="/assets/img/portfolio/tablr_preview.png" style="width: 100%; box-shadow: 2px 2px 2px black; margin-top: 15px;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+     <article class="box-item portfolio-item" itemscope="itemscope" itemtype="http://schema.org/CreativeWork" itemprop="creativeWork">
+        <div class="box-body">
+            <div class="">
+                <span style="color: white; text-align: center; font-size: 14px; width: 100%;">A+ Study App</span>
+                <a href="https://play.google.com/store/apps/details?id=com.freeparking.zack.a_plus_practice&hl=en" target="_blank">
+                    
+                    <img src="/assets/img/portfolio/aplus_preview.png" style="width: 100%; box-shadow: 2px 2px 2px black; margin-top: 15px;" class="preload">
+                </a>
+            </div>
+        </div>
+     </article>
+</div>
+</div> -->
+    <div id="feed" style="padding-top: 20px; background-color: rgba(249, 247, 255,0.05); text-align: center;">
+    <div id="grid" class="row flex-grid">
+        
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/code tutorial">
+                        <span>code tutorial</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/javascript-scope/" class="new-post">
+                        <img src="" data-url="https://i.imgur.com/bQL0cJ4.jpg" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2020-04-19T00:00:00-04:00" />
+                <time itemprop="datePublished" datetime="2020-04-19T00:00:00-04:00" class="date">
+                
+
+
+April 19, 2020
+
+                </time>
+                <a class="post-link" href="/javascript-scope/">
+                    <h2 class="post-title" itemprop="name">
+                    Scope in JavaScript
+                    </h2>
+                </a>
+                <a class="post-link" href="/javascript-scope/">
+                    <p class="description">How does scope work in JavaScript?</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/tech explained casually">
+                        <span>tech explained casually</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/what-is-the-bios/">
+                        <img src="" data-url="https://i.imgur.com/BlKxJos.jpg" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2018-09-03T00:00:00-04:00" />
+                <time itemprop="datePublished" datetime="2018-09-03T00:00:00-04:00" class="date">
+                
+
+
+September 3, 2018
+
+                </time>
+                <a class="post-link" href="/what-is-the-bios/">
+                    <h2 class="post-title" itemprop="name">
+                    What Is The BIOS?
+                    </h2>
+                </a>
+                <a class="post-link" href="/what-is-the-bios/">
+                    <p class="description">In this post I go over what the BIOS is, along with a brief history of the BIOS.</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/tech explained casually">
+                        <span>tech explained casually</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/what-is-ram/">
+                        <img src="" data-url="https://i.imgur.com/ouSeYsS.jpg" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2018-09-02T00:00:00-04:00" />
+                <time itemprop="datePublished" datetime="2018-09-02T00:00:00-04:00" class="date">
+                
+
+
+September 2, 2018
+
+                </time>
+                <a class="post-link" href="/what-is-ram/">
+                    <h2 class="post-title" itemprop="name">
+                    What Is RAM?
+                    </h2>
+                </a>
+                <a class="post-link" href="/what-is-ram/">
+                    <p class="description">In this post I go over what RAM is, the origins of RAM, the different types of RAM, and how much RAM you need for your setup.</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/tech explained casually">
+                        <span>tech explained casually</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/what-is-a-motherboard/">
+                        <img src="" data-url="https://s22.postimg.cc/s7sxo7cht/mobo.png" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2018-09-01T00:00:00-04:00" />
+                <time itemprop="datePublished" datetime="2018-09-01T00:00:00-04:00" class="date">
+                
+
+
+September 1, 2018
+
+                </time>
+                <a class="post-link" href="/what-is-a-motherboard/">
+                    <h2 class="post-title" itemprop="name">
+                    What Is A Motherboard?
+                    </h2>
+                </a>
+                <a class="post-link" href="/what-is-a-motherboard/">
+                    <p class="description">In this post I go over what a motherboard is, the origins of the motherboard, the different types of motherboards, and how to choose the correct motherboard.</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/tech politics">
+                        <span>tech politics</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/why-regulations-on-ai-are-relevant-today/">
+                        <img src="" data-url="https://i.imgur.com/YQkgzf9.png" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2018-05-05T00:00:00-04:00" />
+                <time itemprop="datePublished" datetime="2018-05-05T00:00:00-04:00" class="date">
+                
+
+
+May 5, 2018
+
+                </time>
+                <a class="post-link" href="/why-regulations-on-ai-are-relevant-today/">
+                    <h2 class="post-title" itemprop="name">
+                    Why Regulations On Artificial Intelligence Should Be Discussed Today
+                    </h2>
+                </a>
+                <a class="post-link" href="/why-regulations-on-ai-are-relevant-today/">
+                    <p class="description">Artificial Intelligence is here today, and we need to ensure it remains safe.</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/tech politics">
+                        <span>tech politics</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/a-letter-to-the-fcc-chairman/">
+                        <img src="" data-url="https://i.imgur.com/BxYnnum.jpg" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2017-12-08T00:00:00-05:00" />
+                <time itemprop="datePublished" datetime="2017-12-08T00:00:00-05:00" class="date">
+                
+
+
+December 8, 2017
+
+                </time>
+                <a class="post-link" href="/a-letter-to-the-fcc-chairman/">
+                    <h2 class="post-title" itemprop="name">
+                    A Letter To The FCC Chairman
+                    </h2>
+                </a>
+                <a class="post-link" href="/a-letter-to-the-fcc-chairman/">
+                    <p class="description">In this direct letter to Ajit Pai of the FCC, I challenge three of his arguments one at a time.</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/tech politics">
+                        <span>tech politics</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/an-analysis-of-net-neutrality/">
+                        <img src="" data-url="https://i.imgur.com/UxZN6mn.jpg" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2017-11-22T00:00:00-05:00" />
+                <time itemprop="datePublished" datetime="2017-11-22T00:00:00-05:00" class="date">
+                
+
+
+November 22, 2017
+
+                </time>
+                <a class="post-link" href="/an-analysis-of-net-neutrality/">
+                    <h2 class="post-title" itemprop="name">
+                    An Analysis of Net Neutrality in America
+                    </h2>
+                </a>
+                <a class="post-link" href="/an-analysis-of-net-neutrality/">
+                    <p class="description">What is Net Neutrality? Here we go through the history of Net Neutrality in America, what sort of issues we see today, and some potential solutions.</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/news">
+                        <span>news</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/boston-dynamics-flipping-robots/">
+                        <img src="" data-url="https://i.imgur.com/OQYGD3j.png" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2017-11-17T00:00:00-05:00" />
+                <time itemprop="datePublished" datetime="2017-11-17T00:00:00-05:00" class="date">
+                
+
+
+November 17, 2017
+
+                </time>
+                <a class="post-link" href="/boston-dynamics-flipping-robots/">
+                    <h2 class="post-title" itemprop="name">
+                    Boston Dynamics New Video Presents Looming Possibilities
+                    </h2>
+                </a>
+                <a class="post-link" href="/boston-dynamics-flipping-robots/">
+                    <p class="description">Tech company Boston Dynamics manages to catch the world's attention by programming robots to do Parkour, but what does this mean for the future?</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+            <article class="box-item" itemscope="itemscope" itemtype="http://schema.org/BlogPosting" itemprop="blogPost">
+                <span class="category">
+                    <a href="http://localhost:4000/categoria/advice">
+                        <span>advice</span>
+                    </a>
+                </span>
+                <div class="box-body">
+                    
+                        <div class="cover">
+                            
+
+
+
+                        <a href="/transitioning-to-a-tech-career/">
+                        <img src="" data-url="https://i.imgur.com/vUetTcw.png" class="preload" />
+                    </a>
+                </div>
+            
+            <div class="box-info">
+                <meta itemprop="datePublished" content="2017-11-16T00:00:00-05:00" />
+                <time itemprop="datePublished" datetime="2017-11-16T00:00:00-05:00" class="date">
+                
+
+
+November 16, 2017
+
+                </time>
+                <a class="post-link" href="/transitioning-to-a-tech-career/">
+                    <h2 class="post-title" itemprop="name">
+                    Transitioning Into A Tech Career
+                    </h2>
+                </a>
+                <a class="post-link" href="/transitioning-to-a-tech-career/">
+                    <p class="description">A career in technology can be very rewarding, but what is the best path?</p>
+                </a>
+                <div class="tags">
+                    
+                </div>
+            </div>
+        </div>
+    </article>
+
+</div>
+</div>
+</main>
+:ET

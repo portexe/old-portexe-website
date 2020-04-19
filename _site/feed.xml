@@ -5,14 +5,26 @@
     <description>Technology Explained Casually</description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml"/>
-    <pubDate>Sat, 09 Mar 2019 23:48:46 -0700</pubDate>
-    <lastBuildDate>Sat, 09 Mar 2019 23:48:46 -0700</lastBuildDate>
-    <generator>Jekyll v3.5.1</generator>
+    <pubDate>Sun, 19 Apr 2020 14:38:24 -0400</pubDate>
+    <lastBuildDate>Sun, 19 Apr 2020 14:38:24 -0400</lastBuildDate>
+    <generator>Jekyll v4.0.0</generator>
+    
+      <item>
+        <title>Scope in JavaScript</title>
+        <description>&lt;h1 id=&quot;scope&quot;&gt;Scope&lt;/h1&gt; &lt;h2 id=&quot;scope-can-be-thought-of-as-the-area-of-code-in-which-a-variable-is-visible&quot;&gt;Scope can be thought of as the area of code in which a variable is visible.&lt;/h2&gt; &lt;h4 id=&quot;please-note-that-the-following-post-is-under-the-assumption-that-you-are-not-using-strict-mode-if-you-arent-sure-what-that-means-dont-worry-about-it-for-now-just-understand-that-this-is-how-scope-works-naturally-in-javascript-without-strict-mode-turned-on&quot;&gt;Please note that the following post is under the assumption that you are not using strict mode. If you aren’t sure what that means, don’t worry about it for now. Just understand that this is how scope works naturally in JavaScript without strict mode turned on.&lt;/h4&gt; &lt;h4 id=&quot;i-also-challenge-you-to-run-these-code-examples-for-yourself-as-you-read-through&quot;&gt;I also challenge you to run these code examples for yourself as you read through.&lt;/h4&gt; &lt;p&gt;Let’s look at the following function:&lt;/p&gt; &lt;div class=&quot;highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;function addTwenty(num) { var add = 20; return num...</description>
+        <pubDate>Sun, 19 Apr 2020 00:00:00 -0400</pubDate>
+        <link>http://localhost:4000/javascript-scope/</link>
+        <guid isPermaLink="true">http://localhost:4000/javascript-scope/</guid>
+        
+        
+        <category>code tutorial</category>
+        
+      </item>
     
       <item>
         <title>What Is The BIOS?</title>
         <description>&lt;h4 id=&quot;rather-watch-than-read&quot;&gt;Rather watch than read?&lt;/h4&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/gk038Ypl4cE&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;Almost everyone who has turned on a PC and watched the screen has seen the word BIOS, but what exactly is it? It’s actually very simple, but is also perhaps the important part of the booting process.&lt;/p&gt; &lt;h2 id=&quot;what-is-a-bios&quot;&gt;What is a BIOS?&lt;/h2&gt; &lt;p&gt;The BIOS (Basic Input Output System) is the very first piece of software that runs when you boot the computer up. Its job is to ensure that all of the hardware is started up and working properly before eventually initializing the loading process for your computer’s...</description>
-        <pubDate>Mon, 03 Sep 2018 00:00:00 -0600</pubDate>
+        <pubDate>Mon, 03 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/what-is-the-bios/</link>
         <guid isPermaLink="true">http://localhost:4000/what-is-the-bios/</guid>
         
@@ -24,7 +36,7 @@
       <item>
         <title>What Is RAM?</title>
         <description>&lt;h4 id=&quot;rather-watch-than-read&quot;&gt;Rather watch than read?&lt;/h4&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/_b2--AyoqRg&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;so-what-is-ram&quot;&gt;So What Is RAM?&lt;/h2&gt; &lt;p&gt;RAM stands for random access memory. It is used specifically to hold data for applications that are currently running, including your operating system. So when you load up your favorite app, the Operating System loads the application from the hard drive into RAM. Unlike RAM’s cousin SAM (sequential access memory), applications can access the data in RAM by address, allowing for much faster speeds than going through each byte sequentially until it gets to its destination. RAM is most commonly seen as small...</description>
-        <pubDate>Sun, 02 Sep 2018 00:00:00 -0600</pubDate>
+        <pubDate>Sun, 02 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/what-is-ram/</link>
         <guid isPermaLink="true">http://localhost:4000/what-is-ram/</guid>
         
@@ -36,7 +48,7 @@
       <item>
         <title>What Is A Motherboard?</title>
         <description>&lt;h4 id=&quot;rather-watch-than-read&quot;&gt;Rather watch than read?&lt;/h4&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/8uI5fWE8x5w&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;h2 id=&quot;what-is-a-motherboard&quot;&gt;What is a motherboard?&lt;/h2&gt; &lt;p&gt;The motherboard in modern computers is a circuit board that all components of the computer connects to. Motherboards are also often referred to as logic boards or mainboards. The job of the motherboard is to literally connect all of the computer’s components, and to be the physical medium for the electricity and data that gets distributed to all of the components. Modern motherboards allow computer components to be plugged in and removed easily so that it’s simple to customize, upgrade, or replace parts....</description>
-        <pubDate>Sat, 01 Sep 2018 00:00:00 -0600</pubDate>
+        <pubDate>Sat, 01 Sep 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/what-is-a-motherboard/</link>
         <guid isPermaLink="true">http://localhost:4000/what-is-a-motherboard/</guid>
         
@@ -48,7 +60,7 @@
       <item>
         <title>Why Regulations On Artificial Intelligence Should Be Discussed Today</title>
         <description>&lt;p&gt;Though it may often be thought of as science-fiction, a future with super-intelligent machines seems certain and could pose a serious threat to our species. Artificial intelligence is everywhere today. It’s in phones, watches, and even in our cars. Artificial Intelligence is software that has been programmed to analyze and act without direct instructions. A.I. is very powerful, because if a human brain could be emulated, it would be able to solve human problems at a very fast rate. The fast rate comes from engineering faster processing speeds over time. Moore’s Law was an observation by Gordon Moore in 1965...</description>
-        <pubDate>Sat, 05 May 2018 00:00:00 -0600</pubDate>
+        <pubDate>Sat, 05 May 2018 00:00:00 -0400</pubDate>
         <link>http://localhost:4000/why-regulations-on-ai-are-relevant-today/</link>
         <guid isPermaLink="true">http://localhost:4000/why-regulations-on-ai-are-relevant-today/</guid>
         
@@ -60,7 +72,7 @@
       <item>
         <title>A Letter To The FCC Chairman</title>
         <description>&lt;p&gt;Dear Ajit Pai,&lt;/p&gt; &lt;p&gt;You state that you are &lt;a href=&quot;https://www.pbs.org/newshour/show/fcc-chair-ajit-pai-explains-wants-scrap-net-neutrality&quot;&gt;“in favor of a free and open Internet”&lt;/a&gt; for American citizens, however, your recent announcement on voting to repeal the FCC’s Open Internet Order directly contradicts any such statement of supporting a free and open Internet. Protecting Internet neutrality is absolutely vital for the American Internet to continue to grow organically. You state that the Title II regulations do more harm than good for the American people in regards to Internet access, and that without these regulations, the evolution of the Internet would then be in the hands of &lt;a href=&quot;https://www.politico.com/story/2017/11/22/ajit-pai-fcc-defends-net-neutrality-repeal-25816&quot;&gt;“engineers...</description>
-        <pubDate>Fri, 08 Dec 2017 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 08 Dec 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/a-letter-to-the-fcc-chairman/</link>
         <guid isPermaLink="true">http://localhost:4000/a-letter-to-the-fcc-chairman/</guid>
         
@@ -72,7 +84,7 @@
       <item>
         <title>An Analysis of Net Neutrality in America</title>
         <description>&lt;p&gt;&lt;strong&gt;TL;DR&lt;/strong&gt; at the end.&lt;/p&gt; &lt;p&gt;Net Neutrality is a term that most people today have heard, but how much do you know about it? Should you care? Afterall, it’s not that big of a deal, right? It’s just the internet. As long as you can check your social media accounts and watch your online movies, do you think you’d be satisfied regardless?&lt;/p&gt; &lt;h3 id=&quot;net-neutrality-is-not-necessarily-about-the-present&quot;&gt;Net neutrality is not necessarily about the present.&lt;/h3&gt; &lt;p&gt;The thing to keep in mind here is that companies want to discriminate against certain forms of internet traffic in order to suit their business desires. The goal of net...</description>
-        <pubDate>Wed, 22 Nov 2017 00:00:00 -0700</pubDate>
+        <pubDate>Wed, 22 Nov 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/an-analysis-of-net-neutrality/</link>
         <guid isPermaLink="true">http://localhost:4000/an-analysis-of-net-neutrality/</guid>
         
@@ -84,7 +96,7 @@
       <item>
         <title>Boston Dynamics New Video Presents Looming Possibilities</title>
         <description>&lt;h5 id=&quot;image-of-robot-atlas-was-taken-from-kansascitycom&quot;&gt;Image of Robot Atlas was taken from &lt;a href=&quot;http://www.kansascity.com/news/business/technology/917xpi/picture62197987/ALTERNATES/FREE_640/atlas%20from%20boston%20dynamics&quot;&gt;KansasCity.com&lt;/a&gt;.&lt;/h5&gt; &lt;p&gt;Yesterday, November 16, 2017, &lt;a href=&quot;https://www.bostondynamics.com/&quot;&gt;Boston Dynamics&lt;/a&gt; released a video of their robot Atlas jumping onto platforms before finally performing a perfect backflip.&lt;/p&gt; &lt;iframe width=&quot;854&quot; height=&quot;480&quot; src=&quot;https://www.youtube.com/embed/fRj34o4hN4I&quot; frameborder=&quot;0&quot; gesture=&quot;media&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt; &lt;p&gt;Boston Dynamics is a tech/engineering company headquartered in &lt;a href=&quot;https://en.wikipedia.org/wiki/Waltham,_Massachusetts&quot;&gt;Waltham, Massachusetts&lt;/a&gt; with a focus on robotics with animal-like and human-like designs. Boston Dynamics’ robots have impressed many. They even caught Google’s eyes leading to Google X acquiring them in 2013 before eventually being sold to Japan’s &lt;a href=&quot;https://en.wikipedia.org/wiki/SoftBank_Group&quot;&gt;SoftBank Group&lt;/a&gt;. They’ve also been known for some &lt;a href=&quot;https://www.youtube.com/watch?v=v2-u0TZjuAk&quot;&gt;hilarious malfunctions&lt;/a&gt;.&lt;/p&gt; &lt;p&gt;This is...</description>
-        <pubDate>Fri, 17 Nov 2017 00:00:00 -0700</pubDate>
+        <pubDate>Fri, 17 Nov 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/boston-dynamics-flipping-robots/</link>
         <guid isPermaLink="true">http://localhost:4000/boston-dynamics-flipping-robots/</guid>
         
@@ -96,7 +108,7 @@
       <item>
         <title>Transitioning Into A Tech Career</title>
         <description>&lt;h2 id=&quot;tldr&quot;&gt;TL;DR&lt;/h2&gt; &lt;p&gt;Start with basic tech certifications such as the A+, find an area you are interested in, and then pursue it through self-study and certifications.&lt;/p&gt; &lt;h2 id=&quot;my-story&quot;&gt;My Story&lt;/h2&gt; &lt;hr /&gt; &lt;p&gt;I started off my career working at restaurants. The very first job I had was cleaning at a seafood restaurant when I was in High School. My second job was as a cook at Steak n Shake, a popular burger joint. I hopped around from restaurant to restaurant as I was traveling. I was not sure what I wanted out of life at this point. One thing I was...</description>
-        <pubDate>Thu, 16 Nov 2017 00:00:00 -0700</pubDate>
+        <pubDate>Thu, 16 Nov 2017 00:00:00 -0500</pubDate>
         <link>http://localhost:4000/transitioning-to-a-tech-career/</link>
         <guid isPermaLink="true">http://localhost:4000/transitioning-to-a-tech-career/</guid>
         

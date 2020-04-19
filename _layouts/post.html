@@ -29,7 +29,9 @@
                       <hr>
                 </div>
 
-                <p itemprop="post-info" class="post-info">
+                
+                <div class="post-header">
+                  <p itemprop="post-info" class="post-info">
                     {% if page.date %}
                         <svg id="date" class="icon-calendar"><use xlink:href="#icon-calendar"></use></svg>
                         <time itemprop="datePublished" datetime="{{ page.date | date_to_xmlschema }}" class="date">
@@ -39,8 +41,9 @@
                     <svg id="clock" class="icon-clock"><use xlink:href="#icon-clock"></use></svg>
                     <span>{{ minutesText }}</span>
                 </p>
-                <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
-                <p itemprop="description" class="subtitle">{{ page.description }}</p>
+                  <h1 class="post-title" itemprop="name">{{ page.title }}</h1>
+                  <p itemprop="description" class="subtitle">{{ page.description }}</p>
+                </div>
 
 
 

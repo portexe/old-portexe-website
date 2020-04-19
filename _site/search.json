@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Scope in JavaScript",
+      "tags"     : "",
+      "categories" : "code tutorial",
+      "url"      : "/javascript-scope/",
+      "date"     : "04/19/2020"
+    } ,
+  
+    {
       "title"    : "What Is The BIOS?",
       "tags"     : "",
       "categories" : "tech explained casually",

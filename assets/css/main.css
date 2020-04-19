@@ -745,6 +745,9 @@ main {
 .box-body {
     max-width: 700px;
 }
+.post-header {
+  text-align: center;
+}
 @media only screen and (min-width: 37.5rem) {
     .box-item {
         margin: 0 .938rem 1.875rem
@@ -1401,7 +1404,7 @@ pre code::after {
 }
 @media only screen and (max-width: 37.5rem) {
     pre code {
-        overflow-x: scroll
+        overflow-x: auto;
     }
 }
 pre span {
